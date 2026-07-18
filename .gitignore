@@ -8,3 +8,4 @@ samples/*.json
 samples/*.srt
 samples/*.vtt
 samples/*.mp3
+samples/sample_long.wav

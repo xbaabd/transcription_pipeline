@@ -13,8 +13,12 @@ import sys
 import time
 from pathlib import Path
 
-from pipeline import ingest, output
+from pipeline import chunker, ingest, output
 from pipeline.transcriber import Transcriber
+
+# past this duration, silence-aware chunking + parallel workers beats a
+# single sequential pass (and keeps memory flat)
+CHUNK_THRESHOLD_S = 600.0
 
 
 def main() -> int:
@@ -31,6 +35,10 @@ def main() -> int:
     parser.add_argument("--device", default="cpu", choices=["cpu", "cuda", "auto"])
     parser.add_argument("--language", default=None,
                         help="force language code e.g. 'en' (default: auto-detect)")
+    parser.add_argument("--workers", type=int, default=3,
+                        help="parallel workers for chunked long files (default: 3)")
+    parser.add_argument("--no-chunk", action="store_true",
+                        help="force single-pass transcription regardless of duration")
     args = parser.parse_args()
 
     src = Path(args.input)
@@ -44,10 +52,19 @@ def main() -> int:
           f"{meta['sample_rate']} Hz x{meta['channels']}ch | {meta['duration']:.1f}s")
 
     wav = ingest.normalize(src)
-    transcriber = Transcriber(model_size=args.model, device=args.device)
+    use_chunks = meta["duration"] > CHUNK_THRESHOLD_S and not args.no_chunk
+    transcriber = Transcriber(model_size=args.model, device=args.device,
+                              num_workers=args.workers if use_chunks else 1)
 
     t0 = time.time()
-    result = transcriber.transcribe(wav, language=args.language)
+    if use_chunks:
+        result = chunker.transcribe_chunked(
+            transcriber, wav, meta["duration"],
+            language=args.language, max_workers=args.workers)
+        print(f"chunked into {len(result['chunks'])} pieces at silence boundaries "
+              f"({args.workers} workers)")
+    else:
+        result = transcriber.transcribe(wav, language=args.language)
     elapsed = time.time() - t0
 
     result["source"] = {"file": src.name, **meta}

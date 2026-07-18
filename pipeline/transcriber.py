@@ -14,10 +14,13 @@ from faster_whisper import WhisperModel
 
 class Transcriber:
     def __init__(self, model_size: str = "small", device: str = "cpu",
-                 compute_type: str = "int8"):
+                 compute_type: str = "int8", num_workers: int = 1):
         # small/int8 runs ~2x realtime on a laptop CPU, which is enough here.
         # On a CUDA box: device="cuda", compute_type="float16", model "large-v3".
-        self.model = WhisperModel(model_size, device=device, compute_type=compute_type)
+        # num_workers > 1 lets concurrent transcribe() calls run in parallel
+        # instead of queueing on one worker (used by the chunked path).
+        self.model = WhisperModel(model_size, device=device,
+                                  compute_type=compute_type, num_workers=num_workers)
 
     def transcribe(self, wav_path: str | Path, offset: float = 0.0,
                    language: str | None = None) -> dict:
