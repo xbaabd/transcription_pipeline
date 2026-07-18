@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.tmp/
+
+# generated locally by test runs (curated copies live in examples/)
+samples/*.json
+samples/*.srt
+samples/*.vtt
+samples/*.mp3
