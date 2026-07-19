@@ -1,0 +1,3295 @@
+{
+  "language": "en",
+  "duration": 2320.4805,
+  "chunks": [
+    {
+      "start": 0.0,
+      "end": 299.99
+    },
+    {
+      "start": 299.99,
+      "end": 599.74
+    },
+    {
+      "start": 599.74,
+      "end": 898.82
+    },
+    {
+      "start": 898.82,
+      "end": 1196.7
+    },
+    {
+      "start": 1196.7,
+      "end": 1498.04
+    },
+    {
+      "start": 1498.04,
+      "end": 1798.85
+    },
+    {
+      "start": 1798.85,
+      "end": 2099.23
+    },
+    {
+      "start": 2099.23,
+      "end": 2320.48
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.62,
+      "end": 6.62,
+      "text": "This is a LibriVox recording. All LibriVox recordings are in the public domain."
+    },
+    {
+      "id": 2,
+      "start": 6.62,
+      "end": 12.62,
+      "text": "For more information or to volunteer, please visit LibriVox.org."
+    },
+    {
+      "id": 3,
+      "start": 12.62,
+      "end": 20.62,
+      "text": "Reading by Annie Coleman in St. Louis, Missouri, on January 9, 2006."
+    },
+    {
+      "id": 4,
+      "start": 20.62,
+      "end": 24.62,
+      "text": "Pride and Prejudice by Jane Austen."
+    },
+    {
+      "id": 5,
+      "start": 24.62,
+      "end": 27.62,
+      "text": "Chapter 47"
+    },
+    {
+      "id": 6,
+      "start": 27.62,
+      "end": 33.62,
+      "text": "I have been thinking it over again, Elizabeth,\" said her uncle as they drove from the town."
+    },
+    {
+      "id": 7,
+      "start": 33.62,
+      "end": 41.62,
+      "text": "And really, upon serious consideration, I am much more inclined than I was to judge as your elder sister does on the matter."
+    },
+    {
+      "id": 8,
+      "start": 41.62,
+      "end": 50.62,
+      "text": "It appears to me so very unlikely that any young man should form such a design against a girl who is by no means unprotected or friendless,"
+    },
+    {
+      "id": 9,
+      "start": 50.62,
+      "end": 57.62,
+      "text": "and who is actually staying in his Colonel's family, that I am strongly inclined to hope the best."
+    },
+    {
+      "id": 10,
+      "start": 57.62,
+      "end": 67.62,
+      "text": "Could he expect that her friends would not step forward? Could he expect to be noticed again by the regiment after such an affront to Colonel Forster?"
+    },
+    {
+      "id": 11,
+      "start": 67.62,
+      "end": 70.62,
+      "text": "His temptation is not adequate to the risk."
+    },
+    {
+      "id": 12,
+      "start": 70.62,
+      "end": 75.62,
+      "text": "Do you really think so? cried Elizabeth, brightening up for a moment."
+    },
+    {
+      "id": 13,
+      "start": 75.62,
+      "end": 81.62,
+      "text": "Upon my word, said Mrs. Gardiner, I begin to be of your uncle's opinion."
+    },
+    {
+      "id": 14,
+      "start": 81.62,
+      "end": 87.62,
+      "text": "It is really too great a violation of decency, honor, and interest for him to be guilty of."
+    },
+    {
+      "id": 15,
+      "start": 87.62,
+      "end": 90.62,
+      "text": "I cannot think so very ill of Wickham."
+    },
+    {
+      "id": 16,
+      "start": 90.62,
+      "end": 96.62,
+      "text": "Can you yourself, Lizzie, so wholly give him up as to believe him capable of it?"
+    },
+    {
+      "id": 17,
+      "start": 96.62,
+      "end": 103.62,
+      "text": "Not perhaps of neglecting his own interest, but of every other neglect I can believe him capable."
+    },
+    {
+      "id": 18,
+      "start": 103.62,
+      "end": 105.62,
+      "text": "If indeed it should be so."
+    },
+    {
+      "id": 19,
+      "start": 105.62,
+      "end": 111.62,
+      "text": "But I dare not hope it. Why should they not go on to Scotland if that had been the case?"
+    },
+    {
+      "id": 20,
+      "start": 111.62,
+      "end": 118.62,
+      "text": "In the first place, replied Mr. Gardiner, there is no absolute proof that they are not gone to Scotland."
+    },
+    {
+      "id": 21,
+      "start": 118.62,
+      "end": 128.62,
+      "text": "Oh, but they're removing from the shays into a hackney-coach is such a presumption, and besides no traces of them were to be found on the Barnett Road."
+    },
+    {
+      "id": 22,
+      "start": 129.62,
+      "end": 137.62,
+      "text": "While then supposing them to be in London, they may be there, though for the purpose of concealment, for no more exceptional purpose."
+    },
+    {
+      "id": 23,
+      "start": 137.62,
+      "end": 150.62,
+      "text": "It is not likely that money should be very abundant on either side, and it might strike them that they could be more economically, though lex expeditiously, married in London than in Scotland."
+    },
+    {
+      "id": 24,
+      "start": 150.62,
+      "end": 157.62,
+      "text": "But why all this secrecy? Why any fear of detection? Why must their marriage be private?"
+    },
+    {
+      "id": 25,
+      "start": 157.62,
+      "end": 167.62,
+      "text": "Oh, no, no, this is not likely. His most particular friend, you see, by Jane's account, was persuaded of his never-intending to marry her."
+    },
+    {
+      "id": 26,
+      "start": 167.62,
+      "end": 184.62,
+      "text": "Wickham will never marry a woman without some money. He cannot afford it. And what claims has Lydia? What attraction has she beyond youth, health, and good humour that can make him, for her sake, forgo every chance of benefiting himself by marrying well?"
+    },
+    {
+      "id": 27,
+      "start": 184.62,
+      "end": 196.62,
+      "text": "As to what restraints the apprehensions of disgrace in the core might throw on a dishonourable elopement with her, I am not able to judge, for I know nothing of the effects that such a step might produce."
+    },
+    {
+      "id": 28,
+      "start": 196.62,
+      "end": 213.62,
+      "text": "But as to your other objection, I am afraid it will hardly hold good. Lydia has no brothers to step forward, and he might imagine, from my father's behaviour, from his indolence and the little attention he has ever seemed to give to what was going forward in his family,"
+    },
+    {
+      "id": 29,
+      "start": 213.62,
+      "end": 220.62,
+      "text": "that he would do as little, and think as little about it, as any father could do in such a matter."
+    },
+    {
+      "id": 30,
+      "start": 220.62,
+      "end": 228.62,
+      "text": "But can you think that Lydia is so lost to everything but love of him as to consent to live with him on any terms other than marriage?"
+    },
+    {
+      "id": 31,
+      "start": 229.62,
+      "end": 243.62,
+      "text": "It does seem, and it is most shocking indeed, replied Elizabeth with tears in her eyes, that a sister's sense of decency and virtue in such a point should admit of doubt. But really I know not what to say."
+    },
+    {
+      "id": 32,
+      "start": 243.62,
+      "end": 258.62,
+      "text": "Perhaps I am not doing her justice, but she is very young. She has never been taught to think on serious subjects, and for the last half year, nay, for a twelve-month, she has been given up to nothing but amusement and vanity."
+    },
+    {
+      "id": 33,
+      "start": 258.62,
+      "end": 265.62,
+      "text": "She has been allowed to dispose of her time in the most idle and frivolous manner and to adopt any opinions that came in her way."
+    },
+    {
+      "id": 34,
+      "start": 265.62,
+      "end": 291.62,
+      "text": "Since the blank sheer were first quartered in Maryton, nothing but love, flirtation, and officers have been in her head. She has been doing everything in her power by thinking and talking on the subject to give greater, hmm, what shall I call it, susceptibility to her feelings, which are naturally lively enough, and we all know that Wickham has every charm of person and address that can captivate a woman."
+    },
+    {
+      "id": 35,
+      "start": 291.62,
+      "end": 299.62,
+      "text": "But you see that Jane, said her aunt, does not think so very ill of Wickham as to believe him capable of the attempt."
+    },
+    {
+      "id": 36,
+      "start": 300.17,
+      "end": 303.17,
+      "text": "Of whom does Jane ever think ill?"
+    },
+    {
+      "id": 37,
+      "start": 303.17,
+      "end": 308.25,
+      "text": "And who is there, whatever might be their former conduct, that she would think capable of such"
+    },
+    {
+      "id": 38,
+      "start": 308.25,
+      "end": 311.61,
+      "text": "an attempt till it were proved against them?"
+    },
+    {
+      "id": 39,
+      "start": 311.61,
+      "end": 316.01,
+      "text": "But Jane knows, as well as I do, what Wickham really is."
+    },
+    {
+      "id": 40,
+      "start": 316.01,
+      "end": 320.65,
+      "text": "We both know that he has been profligate in every sense of the word, that he has neither"
+    },
+    {
+      "id": 41,
+      "start": 320.65,
+      "end": 326.33,
+      "text": "integrity nor honour, that he is as false and deceitful as he is insinuating."
+    },
+    {
+      "id": 42,
+      "start": 327.21,
+      "end": 332.73,
+      "text": "And do you really know all this? cried Mrs. Gardiner, whose curiosity as to the"
+    },
+    {
+      "id": 43,
+      "start": 332.73,
+      "end": 335.21,
+      "text": "mode of her intelligence was all alive."
+    },
+    {
+      "id": 44,
+      "start": 336.17,
+      "end": 339.13,
+      "text": "I do indeed, replied Elizabeth, colouring."
+    },
+    {
+      "id": 45,
+      "start": 340.01,
+      "end": 345.29,
+      "text": "I told you the other day of his infamous behaviour to Mr. Darcy, and you yourself,"
+    },
+    {
+      "id": 46,
+      "start": 345.29,
+      "end": 349.29,
+      "text": "when last at Longbourn, heard in what manner he spoke of the man who had"
+    },
+    {
+      "id": 47,
+      "start": 349.29,
+      "end": 352.49,
+      "text": "behaved with such forbearance and liberality towards him."
+    },
+    {
+      "id": 48,
+      "start": 353.29,
+      "end": 357.45,
+      "text": "And there are other circumstances which I am not at liberty, which it is not"
+    },
+    {
+      "id": 49,
+      "start": 357.45,
+      "end": 358.81,
+      "text": "worthwhile to relate."
+    },
+    {
+      "id": 50,
+      "start": 359.45,
+      "end": 362.81,
+      "text": "But his lies about the whole Pemberley family are endless."
+    },
+    {
+      "id": 51,
+      "start": 363.37,
+      "end": 367.53,
+      "text": "From what he said of Miss Darcy, I was thoroughly prepared to see a proud,"
+    },
+    {
+      "id": 52,
+      "start": 367.53,
+      "end": 369.29,
+      "text": "reserved, disagreeable girl."
+    },
+    {
+      "id": 53,
+      "start": 369.93,
+      "end": 372.17,
+      "text": "Yet he knew to the contrary himself."
+    },
+    {
+      "id": 54,
+      "start": 372.81,
+      "end": 376.89,
+      "text": "He must know that she was as amiable and unpretending as we have found her."
+    },
+    {
+      "id": 55,
+      "start": 378.17,
+      "end": 380.33,
+      "text": "But does Lydia know nothing of this?"
+    },
+    {
+      "id": 56,
+      "start": 380.41,
+      "end": 384.09,
+      "text": "Can she be ignorant of what you and Jane seem so well to understand?"
+    },
+    {
+      "id": 57,
+      "start": 385.45,
+      "end": 388.33,
+      "text": "Oh yes, that, that is the worst of all."
+    },
+    {
+      "id": 58,
+      "start": 388.89,
+      "end": 393.77,
+      "text": "Till I was in Kent and saw so much both of Mr. Darcy and his relation,"
+    },
+    {
+      "id": 59,
+      "start": 393.77,
+      "end": 399.53,
+      "text": "Colonel Fitzwilliam, I was ignorant of the truth myself, and when I returned home"
+    },
+    {
+      "id": 60,
+      "start": 399.53,
+      "end": 403.29,
+      "text": "the blank sheer was to leave Maritain in a week or fort's night time."
+    },
+    {
+      "id": 61,
+      "start": 404.09,
+      "end": 408.89,
+      "text": "As that was the case, neither Jane to whom I related the whole, nor I"
+    },
+    {
+      "id": 62,
+      "start": 408.89,
+      "end": 412.57,
+      "text": "thought it necessary to make our knowledge public, for of what use"
+    },
+    {
+      "id": 63,
+      "start": 412.57,
+      "end": 416.57,
+      "text": "could it apparently be to any one, that the good opinion which all the"
+    },
+    {
+      "id": 64,
+      "start": 416.57,
+      "end": 419.53,
+      "text": "neighborhood had of him should then be overthrown."
+    },
+    {
+      "id": 65,
+      "start": 420.25,
+      "end": 424.01,
+      "text": "And even when it was settled that Lydia should go with Mrs. Forster,"
+    },
+    {
+      "id": 66,
+      "start": 424.01,
+      "end": 427.45,
+      "text": "the necessity of opening her eyes to his character never occurred to"
+    },
+    {
+      "id": 67,
+      "start": 427.45,
+      "end": 431.45,
+      "text": "me, that she could be in any danger from the deception never"
+    },
+    {
+      "id": 68,
+      "start": 431.45,
+      "end": 436.09,
+      "text": "entered my head, that such a consequence as this could ensue,"
+    },
+    {
+      "id": 69,
+      "start": 436.09,
+      "end": 439.21,
+      "text": "you may easily believe, was far enough from my thoughts."
+    },
+    {
+      "id": 70,
+      "start": 440.65,
+      "end": 443.37,
+      "text": "When they are all removed to Brighton, therefore you had no reason,"
+    },
+    {
+      "id": 71,
+      "start": 443.37,
+      "end": 445.45,
+      "text": "I suppose, to believe them fond of each other."
+    },
+    {
+      "id": 72,
+      "start": 446.57,
+      "end": 450.57,
+      "text": "Not the slightest. I can remember no symptom of affection on either"
+    },
+    {
+      "id": 73,
+      "start": 450.57,
+      "end": 454.57,
+      "text": "side, and had anything of the kind been perceptible, you must"
+    },
+    {
+      "id": 74,
+      "start": 454.57,
+      "end": 458.01,
+      "text": "be aware that ours is not a family on which it could be thrown away."
+    },
+    {
+      "id": 75,
+      "start": 458.73,
+      "end": 461.93,
+      "text": "When he first entered the core, she was ready enough to"
+    },
+    {
+      "id": 76,
+      "start": 461.93,
+      "end": 467.29,
+      "text": "admire him, but so we all were. Every girl in or near Mariton was out"
+    },
+    {
+      "id": 77,
+      "start": 467.29,
+      "end": 470.65,
+      "text": "of her senses about him for the first two months, but he never"
+    },
+    {
+      "id": 78,
+      "start": 470.65,
+      "end": 475.13,
+      "text": "distinguished her by any particular attention, and consequently"
+    },
+    {
+      "id": 79,
+      "start": 475.13,
+      "end": 479.45,
+      "text": "after a moderate period of extravagant and wild admiration her"
+    },
+    {
+      "id": 80,
+      "start": 479.45,
+      "end": 483.21,
+      "text": "fancy for him gave way, and others of the regiment who treated"
+    },
+    {
+      "id": 81,
+      "start": 483.21,
+      "end": 486.49,
+      "text": "her with more distinction again became her favorites."
+    },
+    {
+      "id": 82,
+      "start": 486.89,
+      "end": 490.97,
+      "text": "It may be easily believed that however little of novelty could be"
+    },
+    {
+      "id": 83,
+      "start": 490.97,
+      "end": 494.17,
+      "text": "added to their fears, hopes, and conjectures on this"
+    },
+    {
+      "id": 84,
+      "start": 494.17,
+      "end": 498.65,
+      "text": "interesting subject by its repeated discussion, no other could"
+    },
+    {
+      "id": 85,
+      "start": 498.65,
+      "end": 501.85,
+      "text": "detain them from it long during the whole of the journey."
+    },
+    {
+      "id": 86,
+      "start": 502.81,
+      "end": 507.45,
+      "text": "From Elizabeth's thoughts it was never absent. Fixed there by"
+    },
+    {
+      "id": 87,
+      "start": 507.45,
+      "end": 511.69,
+      "text": "the keenest of all anguish, self-approach, she could find no"
+    },
+    {
+      "id": 88,
+      "start": 511.69,
+      "end": 514.17,
+      "text": "interval of ease or forgetfulness."
+    },
+    {
+      "id": 89,
+      "start": 514.17,
+      "end": 518.17,
+      "text": "They traveled as expeditiously as possible, and sleeping one night"
+    },
+    {
+      "id": 90,
+      "start": 518.17,
+      "end": 521.77,
+      "text": "on the road, reached long-born by dinnertime the next day."
+    },
+    {
+      "id": 91,
+      "start": 522.49,
+      "end": 525.85,
+      "text": "It was a comfort to Elizabeth to consider that Jane could not"
+    },
+    {
+      "id": 92,
+      "start": 525.85,
+      "end": 528.25,
+      "text": "have been wearied by long expectations."
+    },
+    {
+      "id": 93,
+      "start": 529.29,
+      "end": 533.05,
+      "text": "The little gardeners attracted by the sight of a sheaes were"
+    },
+    {
+      "id": 94,
+      "start": 533.05,
+      "end": 535.37,
+      "text": "standing on the steps of the house as they entered the"
+    },
+    {
+      "id": 95,
+      "start": 535.37,
+      "end": 539.05,
+      "text": "paddock, and when the carriage drove up to the door, the"
+    },
+    {
+      "id": 96,
+      "start": 539.05,
+      "end": 543.21,
+      "text": "joyful surprise that lighted up their faces, the little"
+    },
+    {
+      "id": 97,
+      "start": 543.21,
+      "end": 546.65,
+      "text": "gardeners gathered up their faces, and displayed itself over"
+    },
+    {
+      "id": 98,
+      "start": 546.65,
+      "end": 551.45,
+      "text": "their whole bodies in a variety of capers and frisks, was the"
+    },
+    {
+      "id": 99,
+      "start": 551.45,
+      "end": 553.61,
+      "text": "first pleasing earnest of their welcome."
+    },
+    {
+      "id": 100,
+      "start": 554.65,
+      "end": 557.93,
+      "text": "Elizabeth jumped out, and after giving each of them a hasty"
+    },
+    {
+      "id": 101,
+      "start": 557.93,
+      "end": 562.09,
+      "text": "kiss, hurried into the vestibule, where Jane, who came running"
+    },
+    {
+      "id": 102,
+      "start": 562.09,
+      "end": 565.45,
+      "text": "down from her mother's apartment, immediately met her."
+    },
+    {
+      "id": 103,
+      "start": 566.33,
+      "end": 570.25,
+      "text": "Elizabeth, as she affectionately embraced her, whilst tears"
+    },
+    {
+      "id": 104,
+      "start": 570.25,
+      "end": 574.25,
+      "text": "both, lost not a moment in asking whether anything had been heard"
+    },
+    {
+      "id": 105,
+      "start": 574.25,
+      "end": 575.21,
+      "text": "of the fugitives."
+    },
+    {
+      "id": 106,
+      "start": 576.33,
+      "end": 580.33,
+      "text": "Not yet, replied Jane, but now that my dear uncle is come I hope"
+    },
+    {
+      "id": 107,
+      "start": 580.33,
+      "end": 581.45,
+      "text": "everything will be well."
+    },
+    {
+      "id": 108,
+      "start": 582.49,
+      "end": 583.69,
+      "text": "Is my father in town?"
+    },
+    {
+      "id": 109,
+      "start": 584.49,
+      "end": 586.89,
+      "text": "Yes, he went on Tuesday, as I wrote you word."
+    },
+    {
+      "id": 110,
+      "start": 587.53,
+      "end": 588.89,
+      "text": "And have you heard from him often?"
+    },
+    {
+      "id": 111,
+      "start": 589.85,
+      "end": 591.61,
+      "text": "We have heard only twice."
+    },
+    {
+      "id": 112,
+      "start": 591.61,
+      "end": 594.17,
+      "text": "He wrote me a few lines on Wednesday to say that he had"
+    },
+    {
+      "id": 113,
+      "start": 594.17,
+      "end": 597.61,
+      "text": "arrived in safety, and to give me his directions, which I"
+    },
+    {
+      "id": 114,
+      "start": 597.61,
+      "end": 599.21,
+      "text": "particularly begged him to do."
+    },
+    {
+      "id": 115,
+      "start": 599.74,
+      "end": 604.86,
+      "text": "He merely added that he should not write again till he had something of importance to mention."
+    },
+    {
+      "id": 116,
+      "start": 604.86,
+      "end": 607.26,
+      "text": "And my mother, how is she?"
+    },
+    {
+      "id": 117,
+      "start": 607.26,
+      "end": 609.3,
+      "text": "How are you all?"
+    },
+    {
+      "id": 118,
+      "start": 609.3,
+      "end": 613.86,
+      "text": "My mother is tolerably well, I trust, though her spirits are greatly shaken."
+    },
+    {
+      "id": 119,
+      "start": 613.86,
+      "end": 618.1,
+      "text": "She is upstairs, and will have great satisfaction in seeing you all."
+    },
+    {
+      "id": 120,
+      "start": 618.1,
+      "end": 620.74,
+      "text": "She does not yet leave her dressing-room."
+    },
+    {
+      "id": 121,
+      "start": 620.74,
+      "end": 623.66,
+      "text": "Mary and Kitty, thank heaven, are quite well."
+    },
+    {
+      "id": 122,
+      "start": 624.66,
+      "end": 627.7,
+      "text": "But you, how are you? cried Elizabeth."
+    },
+    {
+      "id": 123,
+      "start": 627.7,
+      "end": 629.02,
+      "text": "You look pale."
+    },
+    {
+      "id": 124,
+      "start": 629.02,
+      "end": 631.54,
+      "text": "How much you must have gone through!"
+    },
+    {
+      "id": 125,
+      "start": 631.54,
+      "end": 636.62,
+      "text": "Her sister, however, assured her of being perfectly well, and their conversation, which had been"
+    },
+    {
+      "id": 126,
+      "start": 636.62,
+      "end": 642.46,
+      "text": "passing while Mr. and Mrs. Gardiner were engaged with their children, was now put an end to"
+    },
+    {
+      "id": 127,
+      "start": 642.46,
+      "end": 645.42,
+      "text": "by the approach of the whole party."
+    },
+    {
+      "id": 128,
+      "start": 645.42,
+      "end": 650.66,
+      "text": "Jane ran to her uncle and aunt and welcomed and thanked them both, with alternate smiles"
+    },
+    {
+      "id": 129,
+      "start": 650.66,
+      "end": 652.7,
+      "text": "and tears."
+    },
+    {
+      "id": 130,
+      "start": 652.7,
+      "end": 656.66,
+      "text": "When they were all in the drawing-room, the questions which Elizabeth had already asked"
+    },
+    {
+      "id": 131,
+      "start": 656.66,
+      "end": 661.14,
+      "text": "were of course repeated by the others, and they soon found that Jane had no intelligence"
+    },
+    {
+      "id": 132,
+      "start": 661.14,
+      "end": 662.7,
+      "text": "to give."
+    },
+    {
+      "id": 133,
+      "start": 662.7,
+      "end": 667.22,
+      "text": "The sanguine hope of good, however, which the benevolence of her heart suggested, had"
+    },
+    {
+      "id": 134,
+      "start": 667.22,
+      "end": 669.14,
+      "text": "not yet deserted her."
+    },
+    {
+      "id": 135,
+      "start": 669.14,
+      "end": 673.42,
+      "text": "She still expected that it would all end well, and that every morning would bring some"
+    },
+    {
+      "id": 136,
+      "start": 673.42,
+      "end": 679.54,
+      "text": "letter, either from Lydia or her father, to explain their proceedings, and perhaps"
+    },
+    {
+      "id": 137,
+      "start": 679.54,
+      "end": 682.18,
+      "text": "announce their marriage."
+    },
+    {
+      "id": 138,
+      "start": 682.18,
+      "end": 686.86,
+      "text": "Mrs. Bennet, to whose apartment they all repaired, after a few minutes' conversation"
+    },
+    {
+      "id": 139,
+      "start": 686.86,
+      "end": 691.22,
+      "text": "together, received them exactly as might be expected."
+    },
+    {
+      "id": 140,
+      "start": 691.22,
+      "end": 696.54,
+      "text": "With tears and lamentations of regret, invectives against the villainous conduct"
+    },
+    {
+      "id": 141,
+      "start": 696.54,
+      "end": 701.62,
+      "text": "of Wickham, and complaints of her own sufferings and ill usage, blaming"
+    },
+    {
+      "id": 142,
+      "start": 701.62,
+      "end": 706.22,
+      "text": "everybody but the person to whose ill-judging indulgence the errors of"
+    },
+    {
+      "id": 143,
+      "start": 706.22,
+      "end": 708.74,
+      "text": "her daughter must principally be owing."
+    },
+    {
+      "id": 144,
+      "start": 709.66,
+      "end": 714.02,
+      "text": "If I had been able, said she, to carry my point, and going to brighten with"
+    },
+    {
+      "id": 145,
+      "start": 714.02,
+      "end": 718.46,
+      "text": "all my family, this would not have happened, but poor dear Lydia had"
+    },
+    {
+      "id": 146,
+      "start": 718.46,
+      "end": 720.86,
+      "text": "nobody to take care of her."
+    },
+    {
+      "id": 147,
+      "start": 720.86,
+      "end": 723.78,
+      "text": "Why did the Forsters ever let her go out of their sight?"
+    },
+    {
+      "id": 148,
+      "start": 723.78,
+      "end": 727.3,
+      "text": "I am sure there was some great neglector other on their side, for she"
+    },
+    {
+      "id": 149,
+      "start": 727.3,
+      "end": 730.18,
+      "text": "is not the kind of girl to do such a thing if she had been well"
+    },
+    {
+      "id": 150,
+      "start": 730.18,
+      "end": 731.66,
+      "text": "looked after."
+    },
+    {
+      "id": 151,
+      "start": 731.66,
+      "end": 735.18,
+      "text": "I always thought they were very unfit to have the charge of her, but"
+    },
+    {
+      "id": 152,
+      "start": 735.18,
+      "end": 738.54,
+      "text": "I was overruled, as I always am."
+    },
+    {
+      "id": 153,
+      "start": 738.54,
+      "end": 740.3,
+      "text": "Poor dear child!"
+    },
+    {
+      "id": 154,
+      "start": 740.3,
+      "end": 744.98,
+      "text": "And now here's Mr. Bennet gone away, and I know he will fight Wickham,"
+    },
+    {
+      "id": 155,
+      "start": 744.98,
+      "end": 747.46,
+      "text": "wherever he meets him, and then he will be killed, and what is to"
+    },
+    {
+      "id": 156,
+      "start": 747.46,
+      "end": 749.1,
+      "text": "become of us all?"
+    },
+    {
+      "id": 157,
+      "start": 749.1,
+      "end": 752.26,
+      "text": "The Collinses will turn us out before he is cold in his grave, and if"
+    },
+    {
+      "id": 158,
+      "start": 752.26,
+      "end": 757.1,
+      "text": "you are not kind to us, brother, I do not know what we shall do."
+    },
+    {
+      "id": 159,
+      "start": 757.1,
+      "end": 762.1,
+      "text": "They all exclaimed against such terrific ideas, and Mr. Gardiner,"
+    },
+    {
+      "id": 160,
+      "start": 762.1,
+      "end": 765.74,
+      "text": "after general assurances of his affection for her and all her"
+    },
+    {
+      "id": 161,
+      "start": 765.74,
+      "end": 769.82,
+      "text": "family, told her that he meant to be in London the very next day,"
+    },
+    {
+      "id": 162,
+      "start": 769.82,
+      "end": 774.9,
+      "text": "and would assist Mr. Bennet in every endeavour for recovering Lydia."
+    },
+    {
+      "id": 163,
+      "start": 774.9,
+      "end": 779.26,
+      "text": "Do not give way to useless alarm, added he, though it is right to be"
+    },
+    {
+      "id": 164,
+      "start": 779.26,
+      "end": 782.9,
+      "text": "prepared for the worst, there is no occasion to look on it as"
+    },
+    {
+      "id": 165,
+      "start": 782.9,
+      "end": 783.9,
+      "text": "certain."
+    },
+    {
+      "id": 166,
+      "start": 783.9,
+      "end": 787.62,
+      "text": "It is not quite a week since they left Brighton, and a few days"
+    },
+    {
+      "id": 167,
+      "start": 787.62,
+      "end": 791.34,
+      "text": "more we may gain some news of them, and till we know that they"
+    },
+    {
+      "id": 168,
+      "start": 791.34,
+      "end": 795.26,
+      "text": "are not married, and have no design of marrying, do not let"
+    },
+    {
+      "id": 169,
+      "start": 795.26,
+      "end": 797.94,
+      "text": "us give the matter over as lost."
+    },
+    {
+      "id": 170,
+      "start": 797.94,
+      "end": 801.26,
+      "text": "As soon as I get to town I shall go to my brother, and make him come"
+    },
+    {
+      "id": 171,
+      "start": 801.26,
+      "end": 804.42,
+      "text": "home with me to Grace Church Street, and then we may consult"
+    },
+    {
+      "id": 172,
+      "start": 804.42,
+      "end": 806.94,
+      "text": "together as to what is to be done."
+    },
+    {
+      "id": 173,
+      "start": 806.94,
+      "end": 811.94,
+      "text": "Oh, my dear brother, replied Mrs. Bennet, that is exactly what I"
+    },
+    {
+      "id": 174,
+      "start": 811.94,
+      "end": 816.38,
+      "text": "could most wish for, and now do, when you get to town, find"
+    },
+    {
+      "id": 175,
+      "start": 816.38,
+      "end": 819.38,
+      "text": "them out wherever they may be, and if they are not married"
+    },
+    {
+      "id": 176,
+      "start": 819.38,
+      "end": 823.1,
+      "text": "already, make them marry, and as for wedding clothes, do not"
+    },
+    {
+      "id": 177,
+      "start": 823.1,
+      "end": 825.62,
+      "text": "let them wait for that, but tell Lydia she shall have as much"
+    },
+    {
+      "id": 178,
+      "start": 825.62,
+      "end": 829.46,
+      "text": "money as she chooses to buy them, after they are married, and above"
+    },
+    {
+      "id": 179,
+      "start": 829.46,
+      "end": 832.34,
+      "text": "all keep Mr. Bennet from fighting."
+    },
+    {
+      "id": 180,
+      "start": 832.34,
+      "end": 835.54,
+      "text": "Tell him what a dreadful state I am in, that I am frighted out"
+    },
+    {
+      "id": 181,
+      "start": 835.54,
+      "end": 839.42,
+      "text": "of my wits, and have such trumblings, such flutterings all over"
+    },
+    {
+      "id": 182,
+      "start": 839.42,
+      "end": 843.34,
+      "text": "me, such spasms in my side, and pains in my head, and such"
+    },
+    {
+      "id": 183,
+      "start": 843.34,
+      "end": 847.82,
+      "text": "beatings at heart, that I can get no rest by night nor by day."
+    },
+    {
+      "id": 184,
+      "start": 847.82,
+      "end": 850.54,
+      "text": "And tell my dear Lydia not to give any directions about her"
+    },
+    {
+      "id": 185,
+      "start": 850.54,
+      "end": 853.58,
+      "text": "clothes till she has seen me, for she does not know which are the"
+    },
+    {
+      "id": 186,
+      "start": 853.58,
+      "end": 855.06,
+      "text": "best warehouses."
+    },
+    {
+      "id": 187,
+      "start": 855.06,
+      "end": 857.42,
+      "text": "Oh, brother, how kind you are!"
+    },
+    {
+      "id": 188,
+      "start": 857.42,
+      "end": 860.54,
+      "text": "I know you will contrive it all."
+    },
+    {
+      "id": 189,
+      "start": 860.54,
+      "end": 863.5,
+      "text": "But Mr. Gardiner, though he assured her again of his earnest"
+    },
+    {
+      "id": 190,
+      "start": 863.5,
+      "end": 867.22,
+      "text": "endeavours in the cause, could not avoid recommending moderation"
+    },
+    {
+      "id": 191,
+      "start": 867.22,
+      "end": 871.74,
+      "text": "to her, as well in her hopes as her fear, and after talking"
+    },
+    {
+      "id": 192,
+      "start": 871.74,
+      "end": 874.58,
+      "text": "with her in this manner till dinner was on the table, they"
+    },
+    {
+      "id": 193,
+      "start": 874.58,
+      "end": 877.86,
+      "text": "all left her to vent all her feelings on the housekeeper,"
+    },
+    {
+      "id": 194,
+      "start": 877.86,
+      "end": 881.34,
+      "text": "who attended in the absence of her daughters."
+    },
+    {
+      "id": 195,
+      "start": 881.34,
+      "end": 884.46,
+      "text": "Though her brother and sister were persuaded that there was no"
+    },
+    {
+      "id": 196,
+      "start": 884.46,
+      "end": 888.42,
+      "text": "relocation for such a seclusion from the family, they did not"
+    },
+    {
+      "id": 197,
+      "start": 888.42,
+      "end": 891.74,
+      "text": "attempt to oppose it, for they knew that she had not prudence"
+    },
+    {
+      "id": 198,
+      "start": 891.74,
+      "end": 894.66,
+      "text": "enough to hold her tongue before the servants while they waited"
+    },
+    {
+      "id": 199,
+      "start": 894.66,
+      "end": 898.62,
+      "text": "at table, and judged it better that one only of the household"
+    },
+    {
+      "id": 200,
+      "start": 898.82,
+      "end": 903.98,
+      "text": "and the one whom they could most trust should comprehend all her fears and solicitude on"
+    },
+    {
+      "id": 201,
+      "start": 903.98,
+      "end": 906.5,
+      "text": "the subject."
+    },
+    {
+      "id": 202,
+      "start": 906.5,
+      "end": 912.18,
+      "text": "In the dining-room they were soon joined by Mary and Kitty, who had been too busily engaged"
+    },
+    {
+      "id": 203,
+      "start": 912.18,
+      "end": 916.5,
+      "text": "in their separate apartments to make their appearance before."
+    },
+    {
+      "id": 204,
+      "start": 916.5,
+      "end": 920.54,
+      "text": "One came from her books, and the other from her toilette."
+    },
+    {
+      "id": 205,
+      "start": 920.54,
+      "end": 926.78,
+      "text": "The faces of both, however, were tolerably calm, and no change was visible in either,"
+    },
+    {
+      "id": 206,
+      "start": 926.94,
+      "end": 931.66,
+      "text": "that the loss of her favourite sister, or the anger which she had herself incurred in"
+    },
+    {
+      "id": 207,
+      "start": 931.66,
+      "end": 938.66,
+      "text": "this business, had given more of fretfulness than usual to the accents of Kitty."
+    },
+    {
+      "id": 208,
+      "start": 938.66,
+      "end": 943.98,
+      "text": "As for Mary, she was mistress enough of herself to whisper to Elizabeth, with accountants"
+    },
+    {
+      "id": 209,
+      "start": 943.98,
+      "end": 948.9,
+      "text": "of grave reflection soon after they were seated at the table."
+    },
+    {
+      "id": 210,
+      "start": 948.9,
+      "end": 954.5,
+      "text": "This is a most unfortunate affair, and will probably be much talked of, but we must"
+    },
+    {
+      "id": 211,
+      "start": 954.5,
+      "end": 961.22,
+      "text": "stem the tide of malice and pour into the wounded bosoms of each other the balm of sisterly"
+    },
+    {
+      "id": 212,
+      "start": 961.22,
+      "end": 963.74,
+      "text": "consolation."
+    },
+    {
+      "id": 213,
+      "start": 963.74,
+      "end": 968.62,
+      "text": "Then, perceiving in Elizabeth no inclination of replying, she added,"
+    },
+    {
+      "id": 214,
+      "start": 968.62,
+      "end": 975.7,
+      "text": "Unhappy as the event must be for Lydia, we may draw from it this useful lesson, that"
+    },
+    {
+      "id": 215,
+      "start": 975.7,
+      "end": 981.62,
+      "text": "loss of virtue in a female is irretrievable, that one false step involves her in"
+    },
+    {
+      "id": 216,
+      "start": 981.62,
+      "end": 987.58,
+      "text": "endless ruin, that her reputation is no less brittle than it is beautiful,"
+    },
+    {
+      "id": 217,
+      "start": 987.58,
+      "end": 991.98,
+      "text": "and that she cannot be too much guarded in her behaviour towards the undeserving"
+    },
+    {
+      "id": 218,
+      "start": 991.98,
+      "end": 994.98,
+      "text": "of the other sex."
+    },
+    {
+      "id": 219,
+      "start": 994.98,
+      "end": 998.66,
+      "text": "Elizabeth lifted up her eyes in amazement, but was too much oppressed"
+    },
+    {
+      "id": 220,
+      "start": 998.66,
+      "end": 1001.06,
+      "text": "to make any reply."
+    },
+    {
+      "id": 221,
+      "start": 1001.06,
+      "end": 1005.42,
+      "text": "Mary, however, continued to console herself with such kind of moral"
+    },
+    {
+      "id": 222,
+      "start": 1005.42,
+      "end": 1009.1,
+      "text": "extractions from the evil before them."
+    },
+    {
+      "id": 223,
+      "start": 1009.1,
+      "end": 1013.28,
+      "text": "In the afternoon the two elder Miss Bennets were able to be for half an hour"
+    },
+    {
+      "id": 224,
+      "start": 1013.28,
+      "end": 1018.3,
+      "text": "by themselves, and Elizabeth instantly availed herself of the opportunity"
+    },
+    {
+      "id": 225,
+      "start": 1018.3,
+      "end": 1024.26,
+      "text": "of making any inquiries which Jane was equally eager to satisfy."
+    },
+    {
+      "id": 226,
+      "start": 1024.26,
+      "end": 1029.26,
+      "text": "After joining in general lamentations over the dreadful sequel of this event,"
+    },
+    {
+      "id": 227,
+      "start": 1029.26,
+      "end": 1033.22,
+      "text": "which Elizabeth considered as all but certain, and Miss Bennet could not"
+    },
+    {
+      "id": 228,
+      "start": 1033.22,
+      "end": 1037.78,
+      "text": "assert to be wholly impossible, the former continued the subject by"
+    },
+    {
+      "id": 229,
+      "start": 1037.78,
+      "end": 1041.7,
+      "text": "saying, But tell me all and everything about it which I have not"
+    },
+    {
+      "id": 230,
+      "start": 1041.7,
+      "end": 1043.26,
+      "text": "already heard."
+    },
+    {
+      "id": 231,
+      "start": 1043.26,
+      "end": 1045.26,
+      "text": "Give me further particulars."
+    },
+    {
+      "id": 232,
+      "start": 1045.26,
+      "end": 1047.22,
+      "text": "What did Colonel Forster say?"
+    },
+    {
+      "id": 233,
+      "start": 1047.22,
+      "end": 1051.18,
+      "text": "Had they no apprehension of anything before the elopement took place?"
+    },
+    {
+      "id": 234,
+      "start": 1051.18,
+      "end": 1054.78,
+      "text": "They must have seen them together for ever."
+    },
+    {
+      "id": 235,
+      "start": 1054.78,
+      "end": 1059.46,
+      "text": "Colonel Forster did own that he had often suspected some partiality,"
+    },
+    {
+      "id": 236,
+      "start": 1059.46,
+      "end": 1063.3,
+      "text": "especially on Lydia's side, but nothing to give him any alarm."
+    },
+    {
+      "id": 237,
+      "start": 1063.3,
+      "end": 1065.74,
+      "text": "I am so grieved for him."
+    },
+    {
+      "id": 238,
+      "start": 1065.74,
+      "end": 1069.34,
+      "text": "His behaviour was attentive and kind to the utmost."
+    },
+    {
+      "id": 239,
+      "start": 1069.34,
+      "end": 1074.26,
+      "text": "He was coming to us in order to assure us of his concern before he had"
+    },
+    {
+      "id": 240,
+      "start": 1074.26,
+      "end": 1077.74,
+      "text": "any idea of there not being gone to Scotland."
+    },
+    {
+      "id": 241,
+      "start": 1077.74,
+      "end": 1082.78,
+      "text": "When that apprehension first got abroad it hastened his journey."
+    },
+    {
+      "id": 242,
+      "start": 1082.78,
+      "end": 1085.54,
+      "text": "And was Denny convinced that Wickham would not marry?"
+    },
+    {
+      "id": 243,
+      "start": 1085.54,
+      "end": 1088.02,
+      "text": "Did he know of their intending to go off?"
+    },
+    {
+      "id": 244,
+      "start": 1088.02,
+      "end": 1090.78,
+      "text": "Had Colonel Forster seen Denny himself?"
+    },
+    {
+      "id": 245,
+      "start": 1090.78,
+      "end": 1095.22,
+      "text": "Yes, but when questioned by him, Denny denied knowing anything"
+    },
+    {
+      "id": 246,
+      "start": 1095.22,
+      "end": 1099.22,
+      "text": "of their plans, and would not give his real opinion about it."
+    },
+    {
+      "id": 247,
+      "start": 1099.22,
+      "end": 1102.5,
+      "text": "He did not repeat his persuasion of their not marrying, and from"
+    },
+    {
+      "id": 248,
+      "start": 1102.5,
+      "end": 1108.1,
+      "text": "that I am inclined to hope he might have been misunderstood before."
+    },
+    {
+      "id": 249,
+      "start": 1108.1,
+      "end": 1111.66,
+      "text": "Until Colonel Forster came himself, not one of you entertained a doubt,"
+    },
+    {
+      "id": 250,
+      "start": 1111.66,
+      "end": 1115.1,
+      "text": "I suppose, of their being really married."
+    },
+    {
+      "id": 251,
+      "start": 1115.1,
+      "end": 1118.62,
+      "text": "How was it possible that such an idea could enter our brains?"
+    },
+    {
+      "id": 252,
+      "start": 1118.62,
+      "end": 1122.32,
+      "text": "I felt a little uneasy, a little fearful of my sister's happiness"
+    },
+    {
+      "id": 253,
+      "start": 1122.32,
+      "end": 1125.8,
+      "text": "with him in marriage, because I knew that his conduct had not been"
+    },
+    {
+      "id": 254,
+      "start": 1125.8,
+      "end": 1127.72,
+      "text": "always quite right."
+    },
+    {
+      "id": 255,
+      "start": 1127.72,
+      "end": 1129.84,
+      "text": "My father and mother knew nothing of that."
+    },
+    {
+      "id": 256,
+      "start": 1129.84,
+      "end": 1133.88,
+      "text": "They only felt how imprudent a match it must be."
+    },
+    {
+      "id": 257,
+      "start": 1133.88,
+      "end": 1137.68,
+      "text": "Kitty then owned, with a very natural triumph, unknowing more than the"
+    },
+    {
+      "id": 258,
+      "start": 1137.68,
+      "end": 1143.12,
+      "text": "rest of us, that in Lydia's last pletter she had prepared her for such a step."
+    },
+    {
+      "id": 259,
+      "start": 1143.12,
+      "end": 1147.72,
+      "text": "She had known, it seems, of their being in love with each other many weeks."
+    },
+    {
+      "id": 260,
+      "start": 1147.72,
+      "end": 1149.68,
+      "text": "But not before they went to Brighton?"
+    },
+    {
+      "id": 261,
+      "start": 1149.68,
+      "end": 1152.24,
+      "text": "No, I believe not."
+    },
+    {
+      "id": 262,
+      "start": 1152.24,
+      "end": 1155.96,
+      "text": "Did Colonel Forster appear to think well of Wickham himself?"
+    },
+    {
+      "id": 263,
+      "start": 1155.96,
+      "end": 1158.4,
+      "text": "Does he know his real character?"
+    },
+    {
+      "id": 264,
+      "start": 1158.4,
+      "end": 1163.28,
+      "text": "I must confess that he did not speak so well of Wickham as he formerly did."
+    },
+    {
+      "id": 265,
+      "start": 1163.28,
+      "end": 1167.44,
+      "text": "He believed him to be imprudent and extravagant, and since this sad"
+    },
+    {
+      "id": 266,
+      "start": 1167.44,
+      "end": 1172.84,
+      "text": "affair has taken place, it is said that he left Mariton greatly in debt."
+    },
+    {
+      "id": 267,
+      "start": 1172.84,
+      "end": 1175.32,
+      "text": "But I hope this may be false."
+    },
+    {
+      "id": 268,
+      "start": 1175.32,
+      "end": 1180.44,
+      "text": "Oh Jane, had we been less secret, had we told what we knew of him,"
+    },
+    {
+      "id": 269,
+      "start": 1180.44,
+      "end": 1183.36,
+      "text": "this could not have happened."
+    },
+    {
+      "id": 270,
+      "start": 1183.36,
+      "end": 1186.4,
+      "text": "Perhaps it would have been better, replied her sister."
+    },
+    {
+      "id": 271,
+      "start": 1186.4,
+      "end": 1190.32,
+      "text": "But to expose the former faults of any person, without knowing what"
+    },
+    {
+      "id": 272,
+      "start": 1190.32,
+      "end": 1194.28,
+      "text": "their present feelings were, seemed unjustifiable."
+    },
+    {
+      "id": 273,
+      "start": 1194.28,
+      "end": 1196.24,
+      "text": "We acted with the best intentions."
+    },
+    {
+      "id": 274,
+      "start": 1196.88,
+      "end": 1201.8,
+      "text": "Could Colonel Forster repeat the particulars of Lydia's note to his wife?"
+    },
+    {
+      "id": 275,
+      "start": 1201.8,
+      "end": 1204.88,
+      "text": "He brought it with him for us to see."
+    },
+    {
+      "id": 276,
+      "start": 1204.88,
+      "end": 1209.36,
+      "text": "Jane then took it from her pocket-book, and gave it to Elizabeth."
+    },
+    {
+      "id": 277,
+      "start": 1209.36,
+      "end": 1211.16,
+      "text": "These were the contents."
+    },
+    {
+      "id": 278,
+      "start": 1211.16,
+      "end": 1216.84,
+      "text": "\"'My dear Harriet, you will laugh when you know where I am gone, and I cannot help laughing"
+    },
+    {
+      "id": 279,
+      "start": 1216.84,
+      "end": 1221.16,
+      "text": "myself at your surprise tomorrow morning, as soon as I am missed."
+    },
+    {
+      "id": 280,
+      "start": 1221.16,
+      "end": 1226.84,
+      "text": "I am going to Gretna Green, and if you cannot guess with who, I shall think you a simpleton,"
+    },
+    {
+      "id": 281,
+      "start": 1226.92,
+      "end": 1231.36,
+      "text": "for there is but one man in the world I love, and he is an angel."
+    },
+    {
+      "id": 282,
+      "start": 1231.36,
+      "end": 1235.88,
+      "text": "I should never be happy without him, so think it no harm to be off."
+    },
+    {
+      "id": 283,
+      "start": 1235.88,
+      "end": 1240.0,
+      "text": "You need not send them word at long-born of my going, if you do not like it, for it will"
+    },
+    {
+      "id": 284,
+      "start": 1240.0,
+      "end": 1245.08,
+      "text": "make the surprise the greater when I write to them and sign my name, Lydia Wickham."
+    },
+    {
+      "id": 285,
+      "start": 1245.08,
+      "end": 1246.96,
+      "text": "What a good joke it will be!"
+    },
+    {
+      "id": 286,
+      "start": 1246.96,
+      "end": 1249.16,
+      "text": "I can hardly write for laughing."
+    },
+    {
+      "id": 287,
+      "start": 1249.16,
+      "end": 1254.88,
+      "text": "Pray make my excuses to Pratt for not keeping my engagement and dancing with him to-night."
+    },
+    {
+      "id": 288,
+      "start": 1254.92,
+      "end": 1258.92,
+      "text": "Tell him I hope he will excuse me when he knows all, and tell him I will dance with him"
+    },
+    {
+      "id": 289,
+      "start": 1258.92,
+      "end": 1262.08,
+      "text": "at the next ball we meet, with great pleasure."
+    },
+    {
+      "id": 290,
+      "start": 1262.08,
+      "end": 1266.24,
+      "text": "I shall send for my clothes when I get to Longbourn, but I wish you would tell Sally"
+    },
+    {
+      "id": 291,
+      "start": 1266.24,
+      "end": 1270.8,
+      "text": "to mend a great slit in my worked muslin gown before they are packed up."
+    },
+    {
+      "id": 292,
+      "start": 1270.8,
+      "end": 1273.48,
+      "text": "Goodbye, give my love to Colonel Forster."
+    },
+    {
+      "id": 293,
+      "start": 1273.48,
+      "end": 1276.12,
+      "text": "I hope you will drink to our good journey."
+    },
+    {
+      "id": 294,
+      "start": 1276.12,
+      "end": 1278.48,
+      "text": "Your affectionate friend, Lydia Bennet.\""
+    },
+    {
+      "id": 295,
+      "start": 1279.48,
+      "end": 1286.08,
+      "text": "Oh, thoughtless, thoughtless Lydia! cried Elizabeth when she had finished it."
+    },
+    {
+      "id": 296,
+      "start": 1286.08,
+      "end": 1289.6,
+      "text": "What a letter is this to be written at such a moment!"
+    },
+    {
+      "id": 297,
+      "start": 1289.6,
+      "end": 1294.16,
+      "text": "But at least it shows that she was serious on the subject of their journey."
+    },
+    {
+      "id": 298,
+      "start": 1294.16,
+      "end": 1298.96,
+      "text": "Whatever he might afterwards have persuaded her to, it was not on her side a scheme of"
+    },
+    {
+      "id": 299,
+      "start": 1298.96,
+      "end": 1300.48,
+      "text": "infamy."
+    },
+    {
+      "id": 300,
+      "start": 1300.48,
+      "end": 1305.0,
+      "text": "My poor father, how he must have felt it!"
+    },
+    {
+      "id": 301,
+      "start": 1305.0,
+      "end": 1307.32,
+      "text": "I never saw anyone so shocked."
+    },
+    {
+      "id": 302,
+      "start": 1307.36,
+      "end": 1310.52,
+      "text": "He could not speak a word for full ten minutes."
+    },
+    {
+      "id": 303,
+      "start": 1310.52,
+      "end": 1315.44,
+      "text": "My mother was taken ill immediately, and the whole house in such confusion."
+    },
+    {
+      "id": 304,
+      "start": 1315.44,
+      "end": 1321.48,
+      "text": "Oh, Jane! cried Elizabeth, was there a servant belonging to it who did not know the whole"
+    },
+    {
+      "id": 305,
+      "start": 1321.48,
+      "end": 1324.56,
+      "text": "story before the end of the day?"
+    },
+    {
+      "id": 306,
+      "start": 1324.56,
+      "end": 1330.72,
+      "text": "I do not know, I hope there was, but to be guarded at such a time is very difficult."
+    },
+    {
+      "id": 307,
+      "start": 1330.72,
+      "end": 1334.84,
+      "text": "My mother was in hysterics, and though I endeavored to give her every assistance"
+    },
+    {
+      "id": 308,
+      "start": 1334.88,
+      "end": 1340.4,
+      "text": "in my power, I am afraid I did not do so much as I might have done."
+    },
+    {
+      "id": 309,
+      "start": 1340.4,
+      "end": 1345.96,
+      "text": "But the horror of what might possibly happen almost took me from my faculties."
+    },
+    {
+      "id": 310,
+      "start": 1345.96,
+      "end": 1348.9,
+      "text": "Your attendance upon her has been too much for you."
+    },
+    {
+      "id": 311,
+      "start": 1348.9,
+      "end": 1350.4,
+      "text": "You do not look well."
+    },
+    {
+      "id": 312,
+      "start": 1350.4,
+      "end": 1352.88,
+      "text": "Oh, that I had been with you!"
+    },
+    {
+      "id": 313,
+      "start": 1352.88,
+      "end": 1357.72,
+      "text": "You have had every care and anxiety upon yourself alone."
+    },
+    {
+      "id": 314,
+      "start": 1357.72,
+      "end": 1362.52,
+      "text": "Mary and Kitty have been very kind, and would have shared in every fatigue, I am sure."
+    },
+    {
+      "id": 315,
+      "start": 1363.04,
+      "end": 1366.08,
+      "text": "But I did not think it right for either of them."
+    },
+    {
+      "id": 316,
+      "start": 1366.08,
+      "end": 1371.76,
+      "text": "Kitty is slight and delicate, and Mary studies so much that her hours of repose should not"
+    },
+    {
+      "id": 317,
+      "start": 1371.76,
+      "end": 1373.64,
+      "text": "be broken in on."
+    },
+    {
+      "id": 318,
+      "start": 1373.64,
+      "end": 1378.4,
+      "text": "My aunt Phillips came to Longbourn on Tuesday after my father went away, and was so good"
+    },
+    {
+      "id": 319,
+      "start": 1378.4,
+      "end": 1381.0,
+      "text": "as to stay till Thursday with me."
+    },
+    {
+      "id": 320,
+      "start": 1381.0,
+      "end": 1386.32,
+      "text": "She was of great use and comfort to us all, and Lady Lucas has been very kind."
+    },
+    {
+      "id": 321,
+      "start": 1386.32,
+      "end": 1390.88,
+      "text": "She walked here on Wednesday morning to condole with us, and offered her services,"
+    },
+    {
+      "id": 322,
+      "start": 1390.88,
+      "end": 1394.96,
+      "text": "or any of her daughters, if they should be of use to us."
+    },
+    {
+      "id": 323,
+      "start": 1394.96,
+      "end": 1398.44,
+      "text": "She had better have stayed at home, cried Elizabeth."
+    },
+    {
+      "id": 324,
+      "start": 1398.44,
+      "end": 1404.6,
+      "text": "Perhaps she meant well, but under such a misfortune as this one cannot see too little of one's"
+    },
+    {
+      "id": 325,
+      "start": 1404.6,
+      "end": 1406.12,
+      "text": "neighbours."
+    },
+    {
+      "id": 326,
+      "start": 1406.12,
+      "end": 1409.68,
+      "text": "Assistance is impossible, condolence insufferable."
+    },
+    {
+      "id": 327,
+      "start": 1409.68,
+      "end": 1414.0,
+      "text": "Let them triumph over us at a distance, and be satisfied."
+    },
+    {
+      "id": 328,
+      "start": 1414.0,
+      "end": 1419.16,
+      "text": "She then proceeded to inquire into the measures which her father had intended to pursue,"
+    },
+    {
+      "id": 329,
+      "start": 1419.16,
+      "end": 1422.24,
+      "text": "well in town, for the recovery of his daughter."
+    },
+    {
+      "id": 330,
+      "start": 1422.24,
+      "end": 1429.32,
+      "text": "He meant, I believe, replied Jane, to go to Epsom, a place where they last changed horses,"
+    },
+    {
+      "id": 331,
+      "start": 1429.32,
+      "end": 1434.16,
+      "text": "see the postillions, and try if anything could be made out from them."
+    },
+    {
+      "id": 332,
+      "start": 1434.16,
+      "end": 1438.52,
+      "text": "His principal object must be to discover the number of the Hackney coach which took"
+    },
+    {
+      "id": 333,
+      "start": 1438.52,
+      "end": 1440.28,
+      "text": "them from Clapham."
+    },
+    {
+      "id": 334,
+      "start": 1440.28,
+      "end": 1444.76,
+      "text": "It had come with a fare from London, and has he thought that the circumstance of a gentleman"
+    },
+    {
+      "id": 335,
+      "start": 1444.76,
+      "end": 1449.8,
+      "text": "and a lady's removing from one carriage into another might be remarked, he meant to"
+    },
+    {
+      "id": 336,
+      "start": 1449.8,
+      "end": 1452.0,
+      "text": "make inquiries at Clapham."
+    },
+    {
+      "id": 337,
+      "start": 1452.0,
+      "end": 1456.88,
+      "text": "If he could anyhow discover at what house the coachman had before set down his fare,"
+    },
+    {
+      "id": 338,
+      "start": 1456.88,
+      "end": 1461.12,
+      "text": "he determined to make inquiries there, and hoped it might not be impossible to find"
+    },
+    {
+      "id": 339,
+      "start": 1461.12,
+      "end": 1464.0,
+      "text": "out the stand and number of the coach."
+    },
+    {
+      "id": 340,
+      "start": 1464.0,
+      "end": 1468.64,
+      "text": "I do not know of any other designs that he had formed, but he was in such a hurry"
+    },
+    {
+      "id": 341,
+      "start": 1468.64,
+      "end": 1474.72,
+      "text": "to be gone, and his spirit so greatly discomposed, that I had difficulty in finding out even"
+    },
+    {
+      "id": 342,
+      "start": 1474.76,
+      "end": 1478.6,
+      "text": "so much as this."
+    },
+    {
+      "id": 343,
+      "start": 1478.6,
+      "end": 1484.08,
+      "text": "End of Chapter 47"
+    },
+    {
+      "id": 344,
+      "start": 1484.08,
+      "end": 1486.36,
+      "text": "Chapter 48"
+    },
+    {
+      "id": 345,
+      "start": 1486.36,
+      "end": 1491.24,
+      "text": "The whole party were in hopes of a letter from Mr. Bennett the next morning, but the post"
+    },
+    {
+      "id": 346,
+      "start": 1491.24,
+      "end": 1494.68,
+      "text": "came in without bringing a single line from him."
+    },
+    {
+      "id": 347,
+      "start": 1494.68,
+      "end": 1497.88,
+      "text": "His family knew him to be on all communications."
+    },
+    {
+      "id": 348,
+      "start": 1498.04,
+      "end": 1505.12,
+      "text": "a most negligent and dilatory correspondent, but at such a time they had hoped for exertion."
+    },
+    {
+      "id": 349,
+      "start": 1505.12,
+      "end": 1509.72,
+      "text": "They were forced to conclude that he had no pleasing intelligence to send, but even of"
+    },
+    {
+      "id": 350,
+      "start": 1509.72,
+      "end": 1514.88,
+      "text": "that they would have been glad to be certain. Mr. Gardiner had only waited for the letters"
+    },
+    {
+      "id": 351,
+      "start": 1514.88,
+      "end": 1520.44,
+      "text": "before he set off. When he was gone they were certain at least of receiving constant"
+    },
+    {
+      "id": 352,
+      "start": 1520.44,
+      "end": 1526.64,
+      "text": "information of what was going on, and their uncle promised, at parting, to prevail on"
+    },
+    {
+      "id": 353,
+      "start": 1526.64,
+      "end": 1530.88,
+      "text": "Mr. Bennet to return to Longbourn as soon as he could, to the great"
+    },
+    {
+      "id": 354,
+      "start": 1530.88,
+      "end": 1535.24,
+      "text": "consolation of his sister, who considered it as the only security for her"
+    },
+    {
+      "id": 355,
+      "start": 1535.24,
+      "end": 1540.6,
+      "text": "husbands not being killed in a duel. Mrs. Gardiner and the children were to"
+    },
+    {
+      "id": 356,
+      "start": 1540.6,
+      "end": 1544.6,
+      "text": "remain in Hartfordshire a few days longer, as the former thought her"
+    },
+    {
+      "id": 357,
+      "start": 1544.6,
+      "end": 1548.72,
+      "text": "presence might be serviceable to her nieces. She shared in their"
+    },
+    {
+      "id": 358,
+      "start": 1548.72,
+      "end": 1552.4,
+      "text": "attendance on Mrs. Bennet, and was of great comfort to them in their"
+    },
+    {
+      "id": 359,
+      "start": 1552.4,
+      "end": 1557.68,
+      "text": "hours of freedom. Their other aunt, who visited them frequently and always,"
+    },
+    {
+      "id": 360,
+      "start": 1557.68,
+      "end": 1562.4,
+      "text": "as she said, with the design of cheering and heartening them up, though as"
+    },
+    {
+      "id": 361,
+      "start": 1562.4,
+      "end": 1566.84,
+      "text": "she never came without reporting some fresh instant of Wickham's extravagance"
+    },
+    {
+      "id": 362,
+      "start": 1566.84,
+      "end": 1570.84,
+      "text": "or irregularity, she seldom went away without leaving them more"
+    },
+    {
+      "id": 363,
+      "start": 1570.84,
+      "end": 1576.48,
+      "text": "dispirited than she found them. All Mariton seemed striving to blacken"
+    },
+    {
+      "id": 364,
+      "start": 1576.48,
+      "end": 1582.36,
+      "text": "the man who, but three months before, had been almost an angel of light."
+    },
+    {
+      "id": 365,
+      "start": 1582.36,
+      "end": 1586.28,
+      "text": "She was declared to be in debt to every tradesman in the place, and"
+    },
+    {
+      "id": 366,
+      "start": 1586.28,
+      "end": 1590.44,
+      "text": "his intrigues, all honoured with the title of seduction, had been"
+    },
+    {
+      "id": 367,
+      "start": 1590.44,
+      "end": 1595.36,
+      "text": "extended into every tradesman's family. Everybody declared that he was"
+    },
+    {
+      "id": 368,
+      "start": 1595.36,
+      "end": 1599.76,
+      "text": "the wickedest young man in the world, and everybody began to find out"
+    },
+    {
+      "id": 369,
+      "start": 1599.76,
+      "end": 1603.92,
+      "text": "that they had always distrusted the appearance of his goodness."
+    },
+    {
+      "id": 370,
+      "start": 1603.92,
+      "end": 1608.0,
+      "text": "Elizabeth, though she did not credit above half of what was said,"
+    },
+    {
+      "id": 371,
+      "start": 1608.0,
+      "end": 1612.08,
+      "text": "believed enough to make her former assurance of her sister's ruin more"
+    },
+    {
+      "id": 372,
+      "start": 1612.12,
+      "end": 1616.8,
+      "text": "certain, and even Jane, who believed still less of it, became almost"
+    },
+    {
+      "id": 373,
+      "start": 1616.8,
+      "end": 1621.6,
+      "text": "hopeless, more especially as the time was now come when, if they had"
+    },
+    {
+      "id": 374,
+      "start": 1621.6,
+      "end": 1626.44,
+      "text": "gone to Scotland, which she had never before entirely disbared of,"
+    },
+    {
+      "id": 375,
+      "start": 1626.44,
+      "end": 1631.4,
+      "text": "they must in all probability have gained some news of them."
+    },
+    {
+      "id": 376,
+      "start": 1631.4,
+      "end": 1635.4,
+      "text": "Mr. Gardiner left long-born on Sunday. On Tuesday his wife"
+    },
+    {
+      "id": 377,
+      "start": 1635.4,
+      "end": 1639.56,
+      "text": "received a letter from him. They told them that, on his arrival,"
+    },
+    {
+      "id": 378,
+      "start": 1639.56,
+      "end": 1642.96,
+      "text": "he had immediately found out his brother and persuaded him to come"
+    },
+    {
+      "id": 379,
+      "start": 1642.96,
+      "end": 1647.24,
+      "text": "to Grace Church Street, that Mr. Bennett had been to Epsom and Clapham"
+    },
+    {
+      "id": 380,
+      "start": 1647.24,
+      "end": 1652.36,
+      "text": "before his arrival, but without gaining any satisfactory information,"
+    },
+    {
+      "id": 381,
+      "start": 1652.36,
+      "end": 1655.32,
+      "text": "and that he was now determined to inquire at all the principal"
+    },
+    {
+      "id": 382,
+      "start": 1655.32,
+      "end": 1659.24,
+      "text": "hotels in town, as Mr. Bennett thought it possible they might have"
+    },
+    {
+      "id": 383,
+      "start": 1659.24,
+      "end": 1663.16,
+      "text": "gone to one of them on their first coming to London before they"
+    },
+    {
+      "id": 384,
+      "start": 1663.16,
+      "end": 1667.72,
+      "text": "procured lodgings. Mr. Gardiner himself did not expect any"
+    },
+    {
+      "id": 385,
+      "start": 1667.76,
+      "end": 1672.04,
+      "text": "success from this measure, but as his brother was eager in it, he"
+    },
+    {
+      "id": 386,
+      "start": 1672.04,
+      "end": 1676.32,
+      "text": "meant to assist him in pursuing it. He added that Mr. Bennett"
+    },
+    {
+      "id": 387,
+      "start": 1676.32,
+      "end": 1679.88,
+      "text": "seemed wholly disinclined at present to leave London, and"
+    },
+    {
+      "id": 388,
+      "start": 1679.88,
+      "end": 1684.52,
+      "text": "promised to write again very soon. There was also a post-script"
+    },
+    {
+      "id": 389,
+      "start": 1684.52,
+      "end": 1686.36,
+      "text": "to this effect."
+    },
+    {
+      "id": 390,
+      "start": 1686.36,
+      "end": 1690.0,
+      "text": "I have written to Colonel Forster to desire him to find out,"
+    },
+    {
+      "id": 391,
+      "start": 1690.0,
+      "end": 1693.24,
+      "text": "if possible, from some of the young man's intimates in the"
+    },
+    {
+      "id": 392,
+      "start": 1693.24,
+      "end": 1697.28,
+      "text": "regiment, whether Wickham has any relations or connections who"
+    },
+    {
+      "id": 393,
+      "start": 1697.32,
+      "end": 1700.04,
+      "text": "would be likely to know in what part of town he has now"
+    },
+    {
+      "id": 394,
+      "start": 1700.04,
+      "end": 1704.24,
+      "text": "concealed himself. If there were any one that one could apply to"
+    },
+    {
+      "id": 395,
+      "start": 1704.24,
+      "end": 1708.48,
+      "text": "with a probability of gaining such a clue as that, it might be"
+    },
+    {
+      "id": 396,
+      "start": 1708.48,
+      "end": 1713.44,
+      "text": "of essential consequence. At present we have nothing to guide us."
+    },
+    {
+      "id": 397,
+      "start": 1713.44,
+      "end": 1716.64,
+      "text": "Colonel Forster will, I dare say, do everything in his power"
+    },
+    {
+      "id": 398,
+      "start": 1716.64,
+      "end": 1721.08,
+      "text": "to satisfy us on this head. But, on second thoughts, perhaps"
+    },
+    {
+      "id": 399,
+      "start": 1721.08,
+      "end": 1724.24,
+      "text": "Lizzie could tell us what relations he has now living, better"
+    },
+    {
+      "id": 400,
+      "start": 1724.28,
+      "end": 1726.88,
+      "text": "than any other person."
+    },
+    {
+      "id": 401,
+      "start": 1726.88,
+      "end": 1730.12,
+      "text": "Elizabeth was at no loss to understand from where this"
+    },
+    {
+      "id": 402,
+      "start": 1730.12,
+      "end": 1734.32,
+      "text": "deference to her authority proceeded, but it was not in her power"
+    },
+    {
+      "id": 403,
+      "start": 1734.32,
+      "end": 1737.84,
+      "text": "to give any information of so satisfactory a nature as the"
+    },
+    {
+      "id": 404,
+      "start": 1737.84,
+      "end": 1741.48,
+      "text": "compliment deserved. She had never heard of his having had any"
+    },
+    {
+      "id": 405,
+      "start": 1741.48,
+      "end": 1745.28,
+      "text": "relations except a father and mother, both of whom had been"
+    },
+    {
+      "id": 406,
+      "start": 1745.28,
+      "end": 1749.28,
+      "text": "dead many years. It was possible, however, that some of his"
+    },
+    {
+      "id": 407,
+      "start": 1749.28,
+      "end": 1752.8,
+      "text": "companions in the blank sheer might be able to give more"
+    },
+    {
+      "id": 408,
+      "start": 1752.84,
+      "end": 1756.04,
+      "text": "information, and though she was not very sanguine in"
+    },
+    {
+      "id": 409,
+      "start": 1756.04,
+      "end": 1760.16,
+      "text": "expecting it, the application was a something to look forward"
+    },
+    {
+      "id": 410,
+      "start": 1760.16,
+      "end": 1765.12,
+      "text": "to. Every day at Longbourn was now a day of anxiety, but the"
+    },
+    {
+      "id": 411,
+      "start": 1765.12,
+      "end": 1769.52,
+      "text": "most anxious part of each was when the post was expected. The"
+    },
+    {
+      "id": 412,
+      "start": 1769.52,
+      "end": 1772.64,
+      "text": "arrival of letters was a grand object of every morning's"
+    },
+    {
+      "id": 413,
+      "start": 1772.64,
+      "end": 1776.88,
+      "text": "impatience. Through letters whatever of good or bad was to"
+    },
+    {
+      "id": 414,
+      "start": 1776.88,
+      "end": 1780.88,
+      "text": "be told would be communicated, and every succeeding day was"
+    },
+    {
+      "id": 415,
+      "start": 1780.96,
+      "end": 1784.96,
+      "text": "expected to bring some news of importance. But before they heard"
+    },
+    {
+      "id": 416,
+      "start": 1784.96,
+      "end": 1788.96,
+      "text": "again from Mr. Gardiner, a letter arrived for their father from a"
+    },
+    {
+      "id": 417,
+      "start": 1788.96,
+      "end": 1793.44,
+      "text": "different quarter from Mr. Collins, which, as Jane had"
+    },
+    {
+      "id": 418,
+      "start": 1793.44,
+      "end": 1796.24,
+      "text": "received directions to open all that came for him in his"
+    },
+    {
+      "id": 419,
+      "start": 1796.24,
+      "end": 1800.24,
+      "text": "absence, she accordingly read,"
+    },
+    {
+      "id": 420,
+      "start": 1798.85,
+      "end": 1806.57,
+      "text": "Elizabeth, who knew what curiosities his letters always were, looked over her and read it likewise."
+    },
+    {
+      "id": 421,
+      "start": 1806.57,
+      "end": 1808.13,
+      "text": "It was as follows."
+    },
+    {
+      "id": 422,
+      "start": 1808.13,
+      "end": 1816.61,
+      "text": "My dear sir, I feel myself called upon by our relationship and my situation in life to condole"
+    },
+    {
+      "id": 423,
+      "start": 1816.61,
+      "end": 1822.17,
+      "text": "with you on the grievous affliction you are now suffering under, of which we were yesterday"
+    },
+    {
+      "id": 424,
+      "start": 1822.17,
+      "end": 1825.85,
+      "text": "informed by a letter from Hartfordshire."
+    },
+    {
+      "id": 425,
+      "start": 1825.85,
+      "end": 1832.57,
+      "text": "Be assured, my dear sir, that Mrs. Collins and myself sincerely sympathise with you and"
+    },
+    {
+      "id": 426,
+      "start": 1832.57,
+      "end": 1839.53,
+      "text": "all your respectable family in your present distress, which must be of the bitterest kind,"
+    },
+    {
+      "id": 427,
+      "start": 1839.53,
+      "end": 1844.61,
+      "text": "because proceeding from a cause which no time can remove."
+    },
+    {
+      "id": 428,
+      "start": 1844.61,
+      "end": 1851.25,
+      "text": "No arguments shall be wanting on my part that can alleviate so severe a misfortune, or"
+    },
+    {
+      "id": 429,
+      "start": 1851.37,
+      "end": 1856.93,
+      "text": "that may comfort you under a circumstance that must be of all others the most afflicting"
+    },
+    {
+      "id": 430,
+      "start": 1856.93,
+      "end": 1859.41,
+      "text": "to a parent's mind."
+    },
+    {
+      "id": 431,
+      "start": 1859.41,
+      "end": 1864.45,
+      "text": "The death of your daughter would have been a blessing in comparison to this, and it is"
+    },
+    {
+      "id": 432,
+      "start": 1864.45,
+      "end": 1870.21,
+      "text": "the more to be lamented, because there is reason to suppose, as my dear Charlotte informs"
+    },
+    {
+      "id": 433,
+      "start": 1870.21,
+      "end": 1876.21,
+      "text": "me, that this licentiousness of behaviour in your daughter has proceeded from a faulty"
+    },
+    {
+      "id": 434,
+      "start": 1876.21,
+      "end": 1878.53,
+      "text": "degree of indulgence."
+    },
+    {
+      "id": 435,
+      "start": 1878.53,
+      "end": 1884.65,
+      "text": "Though, at the same time, for the consolation of yourself and Mrs. Bennet, I am inclined to"
+    },
+    {
+      "id": 436,
+      "start": 1884.65,
+      "end": 1890.81,
+      "text": "think that her own disposition must be naturally bad, or she could not be guilty of such an"
+    },
+    {
+      "id": 437,
+      "start": 1890.81,
+      "end": 1894.45,
+      "text": "enormity at so early an age."
+    },
+    {
+      "id": 438,
+      "start": 1894.45,
+      "end": 1899.61,
+      "text": "Howsoever that may be, you are grievously to be pitied, in which opinion I am not"
+    },
+    {
+      "id": 439,
+      "start": 1899.61,
+      "end": 1905.13,
+      "text": "only joined by Mrs. Collins, but likewise by Lady Catherine and her daughter, to whom"
+    },
+    {
+      "id": 440,
+      "start": 1905.17,
+      "end": 1907.65,
+      "text": "I have related the affair."
+    },
+    {
+      "id": 441,
+      "start": 1907.65,
+      "end": 1912.29,
+      "text": "They agree with me in apprehending that this false step in one daughter will be"
+    },
+    {
+      "id": 442,
+      "start": 1912.29,
+      "end": 1917.25,
+      "text": "injurious to the fortunes of all the others, for who, as Lady Catherine"
+    },
+    {
+      "id": 443,
+      "start": 1917.25,
+      "end": 1922.97,
+      "text": "herself condescendingly says, will connect themselves with such a family."
+    },
+    {
+      "id": 444,
+      "start": 1922.97,
+      "end": 1927.73,
+      "text": "And this consideration leads me moreover to reflect, with augmented"
+    },
+    {
+      "id": 445,
+      "start": 1927.73,
+      "end": 1932.69,
+      "text": "satisfaction, on a certain event of last November, for had it been"
+    },
+    {
+      "id": 446,
+      "start": 1932.73,
+      "end": 1938.05,
+      "text": "otherwise I must have been involved in all your sorrow and disgrace."
+    },
+    {
+      "id": 447,
+      "start": 1938.05,
+      "end": 1942.85,
+      "text": "Let me then advise you, dear sir, to console yourself as much as possible, to"
+    },
+    {
+      "id": 448,
+      "start": 1942.85,
+      "end": 1947.29,
+      "text": "throw off your unworthy child from your affection for ever, and leave her to"
+    },
+    {
+      "id": 449,
+      "start": 1947.29,
+      "end": 1951.69,
+      "text": "reap the fruits of her own heinous offence."
+    },
+    {
+      "id": 450,
+      "start": 1951.69,
+      "end": 1956.91,
+      "text": "I am, dear sir, et cetera, et cetera."
+    },
+    {
+      "id": 451,
+      "start": 1956.91,
+      "end": 1960.15,
+      "text": "Mr. Gardiner did not write again till he had received an answer from"
+    },
+    {
+      "id": 452,
+      "start": 1960.15,
+      "end": 1965.19,
+      "text": "Colonel Forster, and then he had nothing of a pleasant nature to send."
+    },
+    {
+      "id": 453,
+      "start": 1965.19,
+      "end": 1968.11,
+      "text": "It was not known that Wickham had a single relationship with whom he"
+    },
+    {
+      "id": 454,
+      "start": 1968.11,
+      "end": 1974.19,
+      "text": "kept up any connection, and it was certain that he had no near one living."
+    },
+    {
+      "id": 455,
+      "start": 1974.19,
+      "end": 1977.75,
+      "text": "His former acquaintances had been numerous, but since he had been in the"
+    },
+    {
+      "id": 456,
+      "start": 1977.75,
+      "end": 1982.11,
+      "text": "militia it did not appear that he was on terms of particular friendship"
+    },
+    {
+      "id": 457,
+      "start": 1982.11,
+      "end": 1984.19,
+      "text": "with any of them."
+    },
+    {
+      "id": 458,
+      "start": 1984.19,
+      "end": 1987.59,
+      "text": "There was no one, therefore, who could be pointed out as likely to give"
+    },
+    {
+      "id": 459,
+      "start": 1987.59,
+      "end": 1992.71,
+      "text": "any news of him, and in the wretched state of his own finances there was a"
+    },
+    {
+      "id": 460,
+      "start": 1992.71,
+      "end": 1997.19,
+      "text": "very powerful motive for secrecy, in addition to his fear of discovery"
+    },
+    {
+      "id": 461,
+      "start": 1997.19,
+      "end": 2002.15,
+      "text": "by Lydia's relations, for it had just transpired that he had left gaming"
+    },
+    {
+      "id": 462,
+      "start": 2002.15,
+      "end": 2006.43,
+      "text": "debts behind him to a very considerable amount."
+    },
+    {
+      "id": 463,
+      "start": 2006.43,
+      "end": 2009.31,
+      "text": "Colonel Forster believed that more than a thousand pounds would be"
+    },
+    {
+      "id": 464,
+      "start": 2009.31,
+      "end": 2013.11,
+      "text": "necessary to clear his expenses at Brighton."
+    },
+    {
+      "id": 465,
+      "start": 2013.11,
+      "end": 2017.23,
+      "text": "He owed a good deal in town, but his debts of honor were still more"
+    },
+    {
+      "id": 466,
+      "start": 2017.23,
+      "end": 2019.11,
+      "text": "formidable."
+    },
+    {
+      "id": 467,
+      "start": 2019.11,
+      "end": 2022.43,
+      "text": "Mr. Gardiner did not attempt to conceal these particulars from the"
+    },
+    {
+      "id": 468,
+      "start": 2022.43,
+      "end": 2024.73,
+      "text": "long-born family."
+    },
+    {
+      "id": 469,
+      "start": 2024.73,
+      "end": 2026.23,
+      "text": "Jane heard them with horror."
+    },
+    {
+      "id": 470,
+      "start": 2026.23,
+      "end": 2028.99,
+      "text": "A game-ster, she cried."
+    },
+    {
+      "id": 471,
+      "start": 2028.99,
+      "end": 2030.99,
+      "text": "This is wholly unexpected."
+    },
+    {
+      "id": 472,
+      "start": 2030.99,
+      "end": 2033.87,
+      "text": "I had not an idea of it."
+    },
+    {
+      "id": 473,
+      "start": 2033.87,
+      "end": 2037.19,
+      "text": "Mr. Gardiner added in his letter that they might expect to see their"
+    },
+    {
+      "id": 474,
+      "start": 2037.19,
+      "end": 2041.51,
+      "text": "father at home on the following day, which was Saturday."
+    },
+    {
+      "id": 475,
+      "start": 2041.51,
+      "end": 2045.35,
+      "text": "Rendered spiritless by the ill success of all their endeavors, he"
+    },
+    {
+      "id": 476,
+      "start": 2045.35,
+      "end": 2048.95,
+      "text": "had yielded to his brother-in-law's entreaty that he would return to his"
+    },
+    {
+      "id": 477,
+      "start": 2048.95,
+      "end": 2052.83,
+      "text": "family, and leave it to him to do whatever occasion might suggest to"
+    },
+    {
+      "id": 478,
+      "start": 2052.83,
+      "end": 2056.47,
+      "text": "be advisable for continuing their pursuit."
+    },
+    {
+      "id": 479,
+      "start": 2056.47,
+      "end": 2059.27,
+      "text": "When Mrs. Bennett was told of this, she did not express so much"
+    },
+    {
+      "id": 480,
+      "start": 2059.27,
+      "end": 2063.47,
+      "text": "satisfaction as her children expected, considering what her anxiety"
+    },
+    {
+      "id": 481,
+      "start": 2063.47,
+      "end": 2065.63,
+      "text": "for his life had been before."
+    },
+    {
+      "id": 482,
+      "start": 2065.63,
+      "end": 2069.23,
+      "text": "What, is he coming home and without poor Lydia?"
+    },
+    {
+      "id": 483,
+      "start": 2069.23,
+      "end": 2070.23,
+      "text": "She cried."
+    },
+    {
+      "id": 484,
+      "start": 2070.23,
+      "end": 2073.67,
+      "text": "Sure he will not leave London before he has found them."
+    },
+    {
+      "id": 485,
+      "start": 2073.67,
+      "end": 2078.07,
+      "text": "Who is to fight Wickham and make him marry her if he comes away?"
+    },
+    {
+      "id": 486,
+      "start": 2078.07,
+      "end": 2081.87,
+      "text": "As Mrs. Gardiner began to wish to be at home, it was settled that"
+    },
+    {
+      "id": 487,
+      "start": 2081.87,
+      "end": 2085.31,
+      "text": "she and the children should go to London at the same time that"
+    },
+    {
+      "id": 488,
+      "start": 2085.31,
+      "end": 2087.63,
+      "text": "Mr. Bennett came from it."
+    },
+    {
+      "id": 489,
+      "start": 2087.63,
+      "end": 2090.51,
+      "text": "The coach, therefore, took them the first stage of their journey"
+    },
+    {
+      "id": 490,
+      "start": 2090.51,
+      "end": 2093.91,
+      "text": "and brought its master back to Longbourn."
+    },
+    {
+      "id": 491,
+      "start": 2093.91,
+      "end": 2097.63,
+      "text": "Mrs. Gardiner went away, and all the perplexity about Elizabeth"
+    },
+    {
+      "id": 492,
+      "start": 2097.63,
+      "end": 2099.07,
+      "text": "and her Darbyshire friend."
+    },
+    {
+      "id": 493,
+      "start": 2099.23,
+      "end": 2104.17,
+      "text": "that had attended her from that part of the world. His name had never been voluntarily"
+    },
+    {
+      "id": 494,
+      "start": 2104.17,
+      "end": 2109.77,
+      "text": "mentioned before them by her niece, and the kind of half-expectation which Mrs. Gardner"
+    },
+    {
+      "id": 495,
+      "start": 2109.77,
+      "end": 2116.21,
+      "text": "had formed of there being followed by a letter from him had ended in nothing. Elizabeth had"
+    },
+    {
+      "id": 496,
+      "start": 2116.21,
+      "end": 2121.01,
+      "text": "received none since her return that could come from Pemberley."
+    },
+    {
+      "id": 497,
+      "start": 2121.01,
+      "end": 2125.73,
+      "text": "The present unhappy state of the family rendered any other excuse for the lowness of her"
+    },
+    {
+      "id": 498,
+      "start": 2125.73,
+      "end": 2131.49,
+      "text": "spirits unnecessary. Nothing, therefore, could be fairly conjectured from that."
+    },
+    {
+      "id": 499,
+      "start": 2131.49,
+      "end": 2135.57,
+      "text": "Though Elizabeth, who was by this time tolerably well acquainted with her own"
+    },
+    {
+      "id": 500,
+      "start": 2135.57,
+      "end": 2141.09,
+      "text": "feelings, was perfectly aware that, had she known nothing of Darcy, she could"
+    },
+    {
+      "id": 501,
+      "start": 2141.09,
+      "end": 2145.93,
+      "text": "have borne the dread of Lydia's infamy somewhat better. It would have spared"
+    },
+    {
+      "id": 502,
+      "start": 2145.93,
+      "end": 2150.61,
+      "text": "her, she thought, one sleepless night out of two."
+    },
+    {
+      "id": 503,
+      "start": 2150.61,
+      "end": 2153.71,
+      "text": "When Mr. Bennet arrived he had all the appearance of his usual"
+    },
+    {
+      "id": 504,
+      "start": 2153.71,
+      "end": 2158.33,
+      "text": "philosophic composure. He said as little as he had ever been in the habit of"
+    },
+    {
+      "id": 505,
+      "start": 2158.33,
+      "end": 2162.95,
+      "text": "saying, made no mention of the business that had taken him away, and it was"
+    },
+    {
+      "id": 506,
+      "start": 2162.95,
+      "end": 2167.55,
+      "text": "some time before his daughters had courage to speak of it. It was not"
+    },
+    {
+      "id": 507,
+      "start": 2167.55,
+      "end": 2171.71,
+      "text": "till the afternoon, when he had joined them at tea, that Elizabeth ventured"
+    },
+    {
+      "id": 508,
+      "start": 2171.71,
+      "end": 2176.59,
+      "text": "to introduce the subject, and then, on her briefly expressing her sorrow for"
+    },
+    {
+      "id": 509,
+      "start": 2176.59,
+      "end": 2181.59,
+      "text": "what he must have endured, he replied, Say nothing of that, who should"
+    },
+    {
+      "id": 510,
+      "start": 2181.59,
+      "end": 2187.23,
+      "text": "suffer but myself. It has been my own doing, and I ought to feel it."
+    },
+    {
+      "id": 511,
+      "start": 2187.23,
+      "end": 2192.23,
+      "text": "You must not be too severe upon yourself, replied Elizabeth. You may well"
+    },
+    {
+      "id": 512,
+      "start": 2192.23,
+      "end": 2197.51,
+      "text": "warn me against such an evil. Human nature is so prone to fall into it."
+    },
+    {
+      "id": 513,
+      "start": 2197.51,
+      "end": 2201.43,
+      "text": "No, Lizzie, let me once in my life feel how much I have been to"
+    },
+    {
+      "id": 514,
+      "start": 2201.43,
+      "end": 2205.83,
+      "text": "blame. I am not afraid of being overpowered by the impression. It"
+    },
+    {
+      "id": 515,
+      "start": 2205.83,
+      "end": 2207.55,
+      "text": "will pass away soon enough."
+    },
+    {
+      "id": 516,
+      "start": 2207.55,
+      "end": 2212.71,
+      "text": "Do you suppose them to be in London? Yes, where else can they be so"
+    },
+    {
+      "id": 517,
+      "start": 2212.71,
+      "end": 2218.79,
+      "text": "well concealed? And Lydia used to want to go to London, added Kitty."
+    },
+    {
+      "id": 518,
+      "start": 2218.79,
+      "end": 2222.71,
+      "text": "She is happy, then, said her father, dryly, and her residence there"
+    },
+    {
+      "id": 519,
+      "start": 2222.71,
+      "end": 2228.09,
+      "text": "will probably be of some duration. Then, after short silence, he"
+    },
+    {
+      "id": 520,
+      "start": 2228.09,
+      "end": 2232.27,
+      "text": "continued, Lizzie, I bear you no ill will for being justified in"
+    },
+    {
+      "id": 521,
+      "start": 2232.27,
+      "end": 2236.27,
+      "text": "your advice to me last May, which considering the event shows"
+    },
+    {
+      "id": 522,
+      "start": 2236.47,
+      "end": 2240.87,
+      "text": "some greatness of mind. They were interrupted by Miss Bennet, who"
+    },
+    {
+      "id": 523,
+      "start": 2240.87,
+      "end": 2245.67,
+      "text": "came to fetch her mother's tea. This is a parade, he cried, which"
+    },
+    {
+      "id": 524,
+      "start": 2245.67,
+      "end": 2250.27,
+      "text": "does one good. It gives such an elegance to misfortune. Another"
+    },
+    {
+      "id": 525,
+      "start": 2250.27,
+      "end": 2254.07,
+      "text": "day I will do the same. I will sit to my library in my nightcap"
+    },
+    {
+      "id": 526,
+      "start": 2254.07,
+      "end": 2257.35,
+      "text": "and powdering down and give as much trouble as I can. Or"
+    },
+    {
+      "id": 527,
+      "start": 2257.35,
+      "end": 2260.67,
+      "text": "perhaps I may defer it till Kitty runs away."
+    },
+    {
+      "id": 528,
+      "start": 2260.67,
+      "end": 2265.11,
+      "text": "I am not going to run away, Papa, said Kitty fretfully, if"
+    },
+    {
+      "id": 529,
+      "start": 2265.15,
+      "end": 2269.47,
+      "text": "I should ever go to Brighton I would behave better than Lydia."
+    },
+    {
+      "id": 530,
+      "start": 2269.47,
+      "end": 2272.59,
+      "text": "You go to Brighton. I would not trust you so near it is"
+    },
+    {
+      "id": 531,
+      "start": 2272.59,
+      "end": 2276.75,
+      "text": "east-born for fifty pounds. No, Kitty, I have at least learnt"
+    },
+    {
+      "id": 532,
+      "start": 2276.75,
+      "end": 2281.07,
+      "text": "to be cautious, and you will feel the effects of it. No officer"
+    },
+    {
+      "id": 533,
+      "start": 2281.07,
+      "end": 2283.99,
+      "text": "is ever to enter into my house again, nor even to pass"
+    },
+    {
+      "id": 534,
+      "start": 2283.99,
+      "end": 2287.95,
+      "text": "through the village. Balls will be absolutely prohibited unless"
+    },
+    {
+      "id": 535,
+      "start": 2287.95,
+      "end": 2291.07,
+      "text": "you stand up with one of your sisters, and you are never to"
+    },
+    {
+      "id": 536,
+      "start": 2291.07,
+      "end": 2294.19,
+      "text": "stir out of doors till you can prove that you have spent ten"
+    },
+    {
+      "id": 537,
+      "start": 2294.23,
+      "end": 2298.79,
+      "text": "minutes of every day in a rational manner. Kitty, who took all"
+    },
+    {
+      "id": 538,
+      "start": 2298.79,
+      "end": 2302.59,
+      "text": "these threats in a serious light, began to cry."
+    },
+    {
+      "id": 539,
+      "start": 2302.59,
+      "end": 2307.99,
+      "text": "Well, well, said he, do not make yourself unhappy. If you are a"
+    },
+    {
+      "id": 540,
+      "start": 2307.99,
+      "end": 2311.67,
+      "text": "good girl for the next ten years I will take you to a review at"
+    },
+    {
+      "id": 541,
+      "start": 2311.67,
+      "end": 2316.65,
+      "text": "the end of them."
+    }
+  ],
+  "source": {
+    "file": "longform_pp47.mp3",
+    "container": "mp3",
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 2,
+    "duration": 2320.4805
+  },
+  "text": "This is a LibriVox recording. All LibriVox recordings are in the public domain. For more information or to volunteer, please visit LibriVox.org. Reading by Annie Coleman in St. Louis, Missouri, on January 9, 2006. Pride and Prejudice by Jane Austen. Chapter 47 I have been thinking it over again, Elizabeth,\" said her uncle as they drove from the town. And really, upon serious consideration, I am much more inclined than I was to judge as your elder sister does on the matter. It appears to me so very unlikely that any young man should form such a design against a girl who is by no means unprotected or friendless, and who is actually staying in his Colonel's family, that I am strongly inclined to hope the best. Could he expect that her friends would not step forward? Could he expect to be noticed again by the regiment after such an affront to Colonel Forster? His temptation is not adequate to the risk. Do you really think so? cried Elizabeth, brightening up for a moment. Upon my word, said Mrs. Gardiner, I begin to be of your uncle's opinion. It is really too great a violation of decency, honor, and interest for him to be guilty of. I cannot think so very ill of Wickham. Can you yourself, Lizzie, so wholly give him up as to believe him capable of it? Not perhaps of neglecting his own interest, but of every other neglect I can believe him capable. If indeed it should be so. But I dare not hope it. Why should they not go on to Scotland if that had been the case? In the first place, replied Mr. Gardiner, there is no absolute proof that they are not gone to Scotland. Oh, but they're removing from the shays into a hackney-coach is such a presumption, and besides no traces of them were to be found on the Barnett Road. While then supposing them to be in London, they may be there, though for the purpose of concealment, for no more exceptional purpose. It is not likely that money should be very abundant on either side, and it might strike them that they could be more economically, though lex expeditiously, married in London than in Scotland. But why all this secrecy? Why any fear of detection? Why must their marriage be private? Oh, no, no, this is not likely. His most particular friend, you see, by Jane's account, was persuaded of his never-intending to marry her. Wickham will never marry a woman without some money. He cannot afford it. And what claims has Lydia? What attraction has she beyond youth, health, and good humour that can make him, for her sake, forgo every chance of benefiting himself by marrying well? As to what restraints the apprehensions of disgrace in the core might throw on a dishonourable elopement with her, I am not able to judge, for I know nothing of the effects that such a step might produce. But as to your other objection, I am afraid it will hardly hold good. Lydia has no brothers to step forward, and he might imagine, from my father's behaviour, from his indolence and the little attention he has ever seemed to give to what was going forward in his family, that he would do as little, and think as little about it, as any father could do in such a matter. But can you think that Lydia is so lost to everything but love of him as to consent to live with him on any terms other than marriage? It does seem, and it is most shocking indeed, replied Elizabeth with tears in her eyes, that a sister's sense of decency and virtue in such a point should admit of doubt. But really I know not what to say. Perhaps I am not doing her justice, but she is very young. She has never been taught to think on serious subjects, and for the last half year, nay, for a twelve-month, she has been given up to nothing but amusement and vanity. She has been allowed to dispose of her time in the most idle and frivolous manner and to adopt any opinions that came in her way. Since the blank sheer were first quartered in Maryton, nothing but love, flirtation, and officers have been in her head. She has been doing everything in her power by thinking and talking on the subject to give greater, hmm, what shall I call it, susceptibility to her feelings, which are naturally lively enough, and we all know that Wickham has every charm of person and address that can captivate a woman. But you see that Jane, said her aunt, does not think so very ill of Wickham as to believe him capable of the attempt. Of whom does Jane ever think ill? And who is there, whatever might be their former conduct, that she would think capable of such an attempt till it were proved against them? But Jane knows, as well as I do, what Wickham really is. We both know that he has been profligate in every sense of the word, that he has neither integrity nor honour, that he is as false and deceitful as he is insinuating. And do you really know all this? cried Mrs. Gardiner, whose curiosity as to the mode of her intelligence was all alive. I do indeed, replied Elizabeth, colouring. I told you the other day of his infamous behaviour to Mr. Darcy, and you yourself, when last at Longbourn, heard in what manner he spoke of the man who had behaved with such forbearance and liberality towards him. And there are other circumstances which I am not at liberty, which it is not worthwhile to relate. But his lies about the whole Pemberley family are endless. From what he said of Miss Darcy, I was thoroughly prepared to see a proud, reserved, disagreeable girl. Yet he knew to the contrary himself. He must know that she was as amiable and unpretending as we have found her. But does Lydia know nothing of this? Can she be ignorant of what you and Jane seem so well to understand? Oh yes, that, that is the worst of all. Till I was in Kent and saw so much both of Mr. Darcy and his relation, Colonel Fitzwilliam, I was ignorant of the truth myself, and when I returned home the blank sheer was to leave Maritain in a week or fort's night time. As that was the case, neither Jane to whom I related the whole, nor I thought it necessary to make our knowledge public, for of what use could it apparently be to any one, that the good opinion which all the neighborhood had of him should then be overthrown. And even when it was settled that Lydia should go with Mrs. Forster, the necessity of opening her eyes to his character never occurred to me, that she could be in any danger from the deception never entered my head, that such a consequence as this could ensue, you may easily believe, was far enough from my thoughts. When they are all removed to Brighton, therefore you had no reason, I suppose, to believe them fond of each other. Not the slightest. I can remember no symptom of affection on either side, and had anything of the kind been perceptible, you must be aware that ours is not a family on which it could be thrown away. When he first entered the core, she was ready enough to admire him, but so we all were. Every girl in or near Mariton was out of her senses about him for the first two months, but he never distinguished her by any particular attention, and consequently after a moderate period of extravagant and wild admiration her fancy for him gave way, and others of the regiment who treated her with more distinction again became her favorites. It may be easily believed that however little of novelty could be added to their fears, hopes, and conjectures on this interesting subject by its repeated discussion, no other could detain them from it long during the whole of the journey. From Elizabeth's thoughts it was never absent. Fixed there by the keenest of all anguish, self-approach, she could find no interval of ease or forgetfulness. They traveled as expeditiously as possible, and sleeping one night on the road, reached long-born by dinnertime the next day. It was a comfort to Elizabeth to consider that Jane could not have been wearied by long expectations. The little gardeners attracted by the sight of a sheaes were standing on the steps of the house as they entered the paddock, and when the carriage drove up to the door, the joyful surprise that lighted up their faces, the little gardeners gathered up their faces, and displayed itself over their whole bodies in a variety of capers and frisks, was the first pleasing earnest of their welcome. Elizabeth jumped out, and after giving each of them a hasty kiss, hurried into the vestibule, where Jane, who came running down from her mother's apartment, immediately met her. Elizabeth, as she affectionately embraced her, whilst tears both, lost not a moment in asking whether anything had been heard of the fugitives. Not yet, replied Jane, but now that my dear uncle is come I hope everything will be well. Is my father in town? Yes, he went on Tuesday, as I wrote you word. And have you heard from him often? We have heard only twice. He wrote me a few lines on Wednesday to say that he had arrived in safety, and to give me his directions, which I particularly begged him to do. He merely added that he should not write again till he had something of importance to mention. And my mother, how is she? How are you all? My mother is tolerably well, I trust, though her spirits are greatly shaken. She is upstairs, and will have great satisfaction in seeing you all. She does not yet leave her dressing-room. Mary and Kitty, thank heaven, are quite well. But you, how are you? cried Elizabeth. You look pale. How much you must have gone through! Her sister, however, assured her of being perfectly well, and their conversation, which had been passing while Mr. and Mrs. Gardiner were engaged with their children, was now put an end to by the approach of the whole party. Jane ran to her uncle and aunt and welcomed and thanked them both, with alternate smiles and tears. When they were all in the drawing-room, the questions which Elizabeth had already asked were of course repeated by the others, and they soon found that Jane had no intelligence to give. The sanguine hope of good, however, which the benevolence of her heart suggested, had not yet deserted her. She still expected that it would all end well, and that every morning would bring some letter, either from Lydia or her father, to explain their proceedings, and perhaps announce their marriage. Mrs. Bennet, to whose apartment they all repaired, after a few minutes' conversation together, received them exactly as might be expected. With tears and lamentations of regret, invectives against the villainous conduct of Wickham, and complaints of her own sufferings and ill usage, blaming everybody but the person to whose ill-judging indulgence the errors of her daughter must principally be owing. If I had been able, said she, to carry my point, and going to brighten with all my family, this would not have happened, but poor dear Lydia had nobody to take care of her. Why did the Forsters ever let her go out of their sight? I am sure there was some great neglector other on their side, for she is not the kind of girl to do such a thing if she had been well looked after. I always thought they were very unfit to have the charge of her, but I was overruled, as I always am. Poor dear child! And now here's Mr. Bennet gone away, and I know he will fight Wickham, wherever he meets him, and then he will be killed, and what is to become of us all? The Collinses will turn us out before he is cold in his grave, and if you are not kind to us, brother, I do not know what we shall do. They all exclaimed against such terrific ideas, and Mr. Gardiner, after general assurances of his affection for her and all her family, told her that he meant to be in London the very next day, and would assist Mr. Bennet in every endeavour for recovering Lydia. Do not give way to useless alarm, added he, though it is right to be prepared for the worst, there is no occasion to look on it as certain. It is not quite a week since they left Brighton, and a few days more we may gain some news of them, and till we know that they are not married, and have no design of marrying, do not let us give the matter over as lost. As soon as I get to town I shall go to my brother, and make him come home with me to Grace Church Street, and then we may consult together as to what is to be done. Oh, my dear brother, replied Mrs. Bennet, that is exactly what I could most wish for, and now do, when you get to town, find them out wherever they may be, and if they are not married already, make them marry, and as for wedding clothes, do not let them wait for that, but tell Lydia she shall have as much money as she chooses to buy them, after they are married, and above all keep Mr. Bennet from fighting. Tell him what a dreadful state I am in, that I am frighted out of my wits, and have such trumblings, such flutterings all over me, such spasms in my side, and pains in my head, and such beatings at heart, that I can get no rest by night nor by day. And tell my dear Lydia not to give any directions about her clothes till she has seen me, for she does not know which are the best warehouses. Oh, brother, how kind you are! I know you will contrive it all. But Mr. Gardiner, though he assured her again of his earnest endeavours in the cause, could not avoid recommending moderation to her, as well in her hopes as her fear, and after talking with her in this manner till dinner was on the table, they all left her to vent all her feelings on the housekeeper, who attended in the absence of her daughters. Though her brother and sister were persuaded that there was no relocation for such a seclusion from the family, they did not attempt to oppose it, for they knew that she had not prudence enough to hold her tongue before the servants while they waited at table, and judged it better that one only of the household and the one whom they could most trust should comprehend all her fears and solicitude on the subject. In the dining-room they were soon joined by Mary and Kitty, who had been too busily engaged in their separate apartments to make their appearance before. One came from her books, and the other from her toilette. The faces of both, however, were tolerably calm, and no change was visible in either, that the loss of her favourite sister, or the anger which she had herself incurred in this business, had given more of fretfulness than usual to the accents of Kitty. As for Mary, she was mistress enough of herself to whisper to Elizabeth, with accountants of grave reflection soon after they were seated at the table. This is a most unfortunate affair, and will probably be much talked of, but we must stem the tide of malice and pour into the wounded bosoms of each other the balm of sisterly consolation. Then, perceiving in Elizabeth no inclination of replying, she added, Unhappy as the event must be for Lydia, we may draw from it this useful lesson, that loss of virtue in a female is irretrievable, that one false step involves her in endless ruin, that her reputation is no less brittle than it is beautiful, and that she cannot be too much guarded in her behaviour towards the undeserving of the other sex. Elizabeth lifted up her eyes in amazement, but was too much oppressed to make any reply. Mary, however, continued to console herself with such kind of moral extractions from the evil before them. In the afternoon the two elder Miss Bennets were able to be for half an hour by themselves, and Elizabeth instantly availed herself of the opportunity of making any inquiries which Jane was equally eager to satisfy. After joining in general lamentations over the dreadful sequel of this event, which Elizabeth considered as all but certain, and Miss Bennet could not assert to be wholly impossible, the former continued the subject by saying, But tell me all and everything about it which I have not already heard. Give me further particulars. What did Colonel Forster say? Had they no apprehension of anything before the elopement took place? They must have seen them together for ever. Colonel Forster did own that he had often suspected some partiality, especially on Lydia's side, but nothing to give him any alarm. I am so grieved for him. His behaviour was attentive and kind to the utmost. He was coming to us in order to assure us of his concern before he had any idea of there not being gone to Scotland. When that apprehension first got abroad it hastened his journey. And was Denny convinced that Wickham would not marry? Did he know of their intending to go off? Had Colonel Forster seen Denny himself? Yes, but when questioned by him, Denny denied knowing anything of their plans, and would not give his real opinion about it. He did not repeat his persuasion of their not marrying, and from that I am inclined to hope he might have been misunderstood before. Until Colonel Forster came himself, not one of you entertained a doubt, I suppose, of their being really married. How was it possible that such an idea could enter our brains? I felt a little uneasy, a little fearful of my sister's happiness with him in marriage, because I knew that his conduct had not been always quite right. My father and mother knew nothing of that. They only felt how imprudent a match it must be. Kitty then owned, with a very natural triumph, unknowing more than the rest of us, that in Lydia's last pletter she had prepared her for such a step. She had known, it seems, of their being in love with each other many weeks. But not before they went to Brighton? No, I believe not. Did Colonel Forster appear to think well of Wickham himself? Does he know his real character? I must confess that he did not speak so well of Wickham as he formerly did. He believed him to be imprudent and extravagant, and since this sad affair has taken place, it is said that he left Mariton greatly in debt. But I hope this may be false. Oh Jane, had we been less secret, had we told what we knew of him, this could not have happened. Perhaps it would have been better, replied her sister. But to expose the former faults of any person, without knowing what their present feelings were, seemed unjustifiable. We acted with the best intentions. Could Colonel Forster repeat the particulars of Lydia's note to his wife? He brought it with him for us to see. Jane then took it from her pocket-book, and gave it to Elizabeth. These were the contents. \"'My dear Harriet, you will laugh when you know where I am gone, and I cannot help laughing myself at your surprise tomorrow morning, as soon as I am missed. I am going to Gretna Green, and if you cannot guess with who, I shall think you a simpleton, for there is but one man in the world I love, and he is an angel. I should never be happy without him, so think it no harm to be off. You need not send them word at long-born of my going, if you do not like it, for it will make the surprise the greater when I write to them and sign my name, Lydia Wickham. What a good joke it will be! I can hardly write for laughing. Pray make my excuses to Pratt for not keeping my engagement and dancing with him to-night. Tell him I hope he will excuse me when he knows all, and tell him I will dance with him at the next ball we meet, with great pleasure. I shall send for my clothes when I get to Longbourn, but I wish you would tell Sally to mend a great slit in my worked muslin gown before they are packed up. Goodbye, give my love to Colonel Forster. I hope you will drink to our good journey. Your affectionate friend, Lydia Bennet.\" Oh, thoughtless, thoughtless Lydia! cried Elizabeth when she had finished it. What a letter is this to be written at such a moment! But at least it shows that she was serious on the subject of their journey. Whatever he might afterwards have persuaded her to, it was not on her side a scheme of infamy. My poor father, how he must have felt it! I never saw anyone so shocked. He could not speak a word for full ten minutes. My mother was taken ill immediately, and the whole house in such confusion. Oh, Jane! cried Elizabeth, was there a servant belonging to it who did not know the whole story before the end of the day? I do not know, I hope there was, but to be guarded at such a time is very difficult. My mother was in hysterics, and though I endeavored to give her every assistance in my power, I am afraid I did not do so much as I might have done. But the horror of what might possibly happen almost took me from my faculties. Your attendance upon her has been too much for you. You do not look well. Oh, that I had been with you! You have had every care and anxiety upon yourself alone. Mary and Kitty have been very kind, and would have shared in every fatigue, I am sure. But I did not think it right for either of them. Kitty is slight and delicate, and Mary studies so much that her hours of repose should not be broken in on. My aunt Phillips came to Longbourn on Tuesday after my father went away, and was so good as to stay till Thursday with me. She was of great use and comfort to us all, and Lady Lucas has been very kind. She walked here on Wednesday morning to condole with us, and offered her services, or any of her daughters, if they should be of use to us. She had better have stayed at home, cried Elizabeth. Perhaps she meant well, but under such a misfortune as this one cannot see too little of one's neighbours. Assistance is impossible, condolence insufferable. Let them triumph over us at a distance, and be satisfied. She then proceeded to inquire into the measures which her father had intended to pursue, well in town, for the recovery of his daughter. He meant, I believe, replied Jane, to go to Epsom, a place where they last changed horses, see the postillions, and try if anything could be made out from them. His principal object must be to discover the number of the Hackney coach which took them from Clapham. It had come with a fare from London, and has he thought that the circumstance of a gentleman and a lady's removing from one carriage into another might be remarked, he meant to make inquiries at Clapham. If he could anyhow discover at what house the coachman had before set down his fare, he determined to make inquiries there, and hoped it might not be impossible to find out the stand and number of the coach. I do not know of any other designs that he had formed, but he was in such a hurry to be gone, and his spirit so greatly discomposed, that I had difficulty in finding out even so much as this. End of Chapter 47 Chapter 48 The whole party were in hopes of a letter from Mr. Bennett the next morning, but the post came in without bringing a single line from him. His family knew him to be on all communications. a most negligent and dilatory correspondent, but at such a time they had hoped for exertion. They were forced to conclude that he had no pleasing intelligence to send, but even of that they would have been glad to be certain. Mr. Gardiner had only waited for the letters before he set off. When he was gone they were certain at least of receiving constant information of what was going on, and their uncle promised, at parting, to prevail on Mr. Bennet to return to Longbourn as soon as he could, to the great consolation of his sister, who considered it as the only security for her husbands not being killed in a duel. Mrs. Gardiner and the children were to remain in Hartfordshire a few days longer, as the former thought her presence might be serviceable to her nieces. She shared in their attendance on Mrs. Bennet, and was of great comfort to them in their hours of freedom. Their other aunt, who visited them frequently and always, as she said, with the design of cheering and heartening them up, though as she never came without reporting some fresh instant of Wickham's extravagance or irregularity, she seldom went away without leaving them more dispirited than she found them. All Mariton seemed striving to blacken the man who, but three months before, had been almost an angel of light. She was declared to be in debt to every tradesman in the place, and his intrigues, all honoured with the title of seduction, had been extended into every tradesman's family. Everybody declared that he was the wickedest young man in the world, and everybody began to find out that they had always distrusted the appearance of his goodness. Elizabeth, though she did not credit above half of what was said, believed enough to make her former assurance of her sister's ruin more certain, and even Jane, who believed still less of it, became almost hopeless, more especially as the time was now come when, if they had gone to Scotland, which she had never before entirely disbared of, they must in all probability have gained some news of them. Mr. Gardiner left long-born on Sunday. On Tuesday his wife received a letter from him. They told them that, on his arrival, he had immediately found out his brother and persuaded him to come to Grace Church Street, that Mr. Bennett had been to Epsom and Clapham before his arrival, but without gaining any satisfactory information, and that he was now determined to inquire at all the principal hotels in town, as Mr. Bennett thought it possible they might have gone to one of them on their first coming to London before they procured lodgings. Mr. Gardiner himself did not expect any success from this measure, but as his brother was eager in it, he meant to assist him in pursuing it. He added that Mr. Bennett seemed wholly disinclined at present to leave London, and promised to write again very soon. There was also a post-script to this effect. I have written to Colonel Forster to desire him to find out, if possible, from some of the young man's intimates in the regiment, whether Wickham has any relations or connections who would be likely to know in what part of town he has now concealed himself. If there were any one that one could apply to with a probability of gaining such a clue as that, it might be of essential consequence. At present we have nothing to guide us. Colonel Forster will, I dare say, do everything in his power to satisfy us on this head. But, on second thoughts, perhaps Lizzie could tell us what relations he has now living, better than any other person. Elizabeth was at no loss to understand from where this deference to her authority proceeded, but it was not in her power to give any information of so satisfactory a nature as the compliment deserved. She had never heard of his having had any relations except a father and mother, both of whom had been dead many years. It was possible, however, that some of his companions in the blank sheer might be able to give more information, and though she was not very sanguine in expecting it, the application was a something to look forward to. Every day at Longbourn was now a day of anxiety, but the most anxious part of each was when the post was expected. The arrival of letters was a grand object of every morning's impatience. Through letters whatever of good or bad was to be told would be communicated, and every succeeding day was expected to bring some news of importance. But before they heard again from Mr. Gardiner, a letter arrived for their father from a different quarter from Mr. Collins, which, as Jane had received directions to open all that came for him in his absence, she accordingly read, Elizabeth, who knew what curiosities his letters always were, looked over her and read it likewise. It was as follows. My dear sir, I feel myself called upon by our relationship and my situation in life to condole with you on the grievous affliction you are now suffering under, of which we were yesterday informed by a letter from Hartfordshire. Be assured, my dear sir, that Mrs. Collins and myself sincerely sympathise with you and all your respectable family in your present distress, which must be of the bitterest kind, because proceeding from a cause which no time can remove. No arguments shall be wanting on my part that can alleviate so severe a misfortune, or that may comfort you under a circumstance that must be of all others the most afflicting to a parent's mind. The death of your daughter would have been a blessing in comparison to this, and it is the more to be lamented, because there is reason to suppose, as my dear Charlotte informs me, that this licentiousness of behaviour in your daughter has proceeded from a faulty degree of indulgence. Though, at the same time, for the consolation of yourself and Mrs. Bennet, I am inclined to think that her own disposition must be naturally bad, or she could not be guilty of such an enormity at so early an age. Howsoever that may be, you are grievously to be pitied, in which opinion I am not only joined by Mrs. Collins, but likewise by Lady Catherine and her daughter, to whom I have related the affair. They agree with me in apprehending that this false step in one daughter will be injurious to the fortunes of all the others, for who, as Lady Catherine herself condescendingly says, will connect themselves with such a family. And this consideration leads me moreover to reflect, with augmented satisfaction, on a certain event of last November, for had it been otherwise I must have been involved in all your sorrow and disgrace. Let me then advise you, dear sir, to console yourself as much as possible, to throw off your unworthy child from your affection for ever, and leave her to reap the fruits of her own heinous offence. I am, dear sir, et cetera, et cetera. Mr. Gardiner did not write again till he had received an answer from Colonel Forster, and then he had nothing of a pleasant nature to send. It was not known that Wickham had a single relationship with whom he kept up any connection, and it was certain that he had no near one living. His former acquaintances had been numerous, but since he had been in the militia it did not appear that he was on terms of particular friendship with any of them. There was no one, therefore, who could be pointed out as likely to give any news of him, and in the wretched state of his own finances there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia's relations, for it had just transpired that he had left gaming debts behind him to a very considerable amount. Colonel Forster believed that more than a thousand pounds would be necessary to clear his expenses at Brighton. He owed a good deal in town, but his debts of honor were still more formidable. Mr. Gardiner did not attempt to conceal these particulars from the long-born family. Jane heard them with horror. A game-ster, she cried. This is wholly unexpected. I had not an idea of it. Mr. Gardiner added in his letter that they might expect to see their father at home on the following day, which was Saturday. Rendered spiritless by the ill success of all their endeavors, he had yielded to his brother-in-law's entreaty that he would return to his family, and leave it to him to do whatever occasion might suggest to be advisable for continuing their pursuit. When Mrs. Bennett was told of this, she did not express so much satisfaction as her children expected, considering what her anxiety for his life had been before. What, is he coming home and without poor Lydia? She cried. Sure he will not leave London before he has found them. Who is to fight Wickham and make him marry her if he comes away? As Mrs. Gardiner began to wish to be at home, it was settled that she and the children should go to London at the same time that Mr. Bennett came from it. The coach, therefore, took them the first stage of their journey and brought its master back to Longbourn. Mrs. Gardiner went away, and all the perplexity about Elizabeth and her Darbyshire friend. that had attended her from that part of the world. His name had never been voluntarily mentioned before them by her niece, and the kind of half-expectation which Mrs. Gardner had formed of there being followed by a letter from him had ended in nothing. Elizabeth had received none since her return that could come from Pemberley. The present unhappy state of the family rendered any other excuse for the lowness of her spirits unnecessary. Nothing, therefore, could be fairly conjectured from that. Though Elizabeth, who was by this time tolerably well acquainted with her own feelings, was perfectly aware that, had she known nothing of Darcy, she could have borne the dread of Lydia's infamy somewhat better. It would have spared her, she thought, one sleepless night out of two. When Mr. Bennet arrived he had all the appearance of his usual philosophic composure. He said as little as he had ever been in the habit of saying, made no mention of the business that had taken him away, and it was some time before his daughters had courage to speak of it. It was not till the afternoon, when he had joined them at tea, that Elizabeth ventured to introduce the subject, and then, on her briefly expressing her sorrow for what he must have endured, he replied, Say nothing of that, who should suffer but myself. It has been my own doing, and I ought to feel it. You must not be too severe upon yourself, replied Elizabeth. You may well warn me against such an evil. Human nature is so prone to fall into it. No, Lizzie, let me once in my life feel how much I have been to blame. I am not afraid of being overpowered by the impression. It will pass away soon enough. Do you suppose them to be in London? Yes, where else can they be so well concealed? And Lydia used to want to go to London, added Kitty. She is happy, then, said her father, dryly, and her residence there will probably be of some duration. Then, after short silence, he continued, Lizzie, I bear you no ill will for being justified in your advice to me last May, which considering the event shows some greatness of mind. They were interrupted by Miss Bennet, who came to fetch her mother's tea. This is a parade, he cried, which does one good. It gives such an elegance to misfortune. Another day I will do the same. I will sit to my library in my nightcap and powdering down and give as much trouble as I can. Or perhaps I may defer it till Kitty runs away. I am not going to run away, Papa, said Kitty fretfully, if I should ever go to Brighton I would behave better than Lydia. You go to Brighton. I would not trust you so near it is east-born for fifty pounds. No, Kitty, I have at least learnt to be cautious, and you will feel the effects of it. No officer is ever to enter into my house again, nor even to pass through the village. Balls will be absolutely prohibited unless you stand up with one of your sisters, and you are never to stir out of doors till you can prove that you have spent ten minutes of every day in a rational manner. Kitty, who took all these threats in a serious light, began to cry. Well, well, said he, do not make yourself unhappy. If you are a good girl for the next ten years I will take you to a review at the end of them."
+}

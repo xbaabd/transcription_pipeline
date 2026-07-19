@@ -1,0 +1,2163 @@
+1
+00:00:00,620 --> 00:00:06,620
+This is a LibriVox recording. All LibriVox recordings are in the public domain.
+
+2
+00:00:06,620 --> 00:00:12,620
+For more information or to volunteer, please visit LibriVox.org.
+
+3
+00:00:12,620 --> 00:00:20,620
+Reading by Annie Coleman in St. Louis, Missouri, on January 9, 2006.
+
+4
+00:00:20,620 --> 00:00:24,620
+Pride and Prejudice by Jane Austen.
+
+5
+00:00:24,620 --> 00:00:27,620
+Chapter 47
+
+6
+00:00:27,620 --> 00:00:33,620
+I have been thinking it over again, Elizabeth," said her uncle as they drove from the town.
+
+7
+00:00:33,620 --> 00:00:41,620
+And really, upon serious consideration, I am much more inclined than I was to judge as your elder sister does on the matter.
+
+8
+00:00:41,620 --> 00:00:50,620
+It appears to me so very unlikely that any young man should form such a design against a girl who is by no means unprotected or friendless,
+
+9
+00:00:50,620 --> 00:00:57,620
+and who is actually staying in his Colonel's family, that I am strongly inclined to hope the best.
+
+10
+00:00:57,620 --> 00:01:07,620
+Could he expect that her friends would not step forward? Could he expect to be noticed again by the regiment after such an affront to Colonel Forster?
+
+11
+00:01:07,620 --> 00:01:10,620
+His temptation is not adequate to the risk.
+
+12
+00:01:10,620 --> 00:01:15,620
+Do you really think so? cried Elizabeth, brightening up for a moment.
+
+13
+00:01:15,620 --> 00:01:21,620
+Upon my word, said Mrs. Gardiner, I begin to be of your uncle's opinion.
+
+14
+00:01:21,620 --> 00:01:27,620
+It is really too great a violation of decency, honor, and interest for him to be guilty of.
+
+15
+00:01:27,620 --> 00:01:30,620
+I cannot think so very ill of Wickham.
+
+16
+00:01:30,620 --> 00:01:36,620
+Can you yourself, Lizzie, so wholly give him up as to believe him capable of it?
+
+17
+00:01:36,620 --> 00:01:43,620
+Not perhaps of neglecting his own interest, but of every other neglect I can believe him capable.
+
+18
+00:01:43,620 --> 00:01:45,620
+If indeed it should be so.
+
+19
+00:01:45,620 --> 00:01:51,620
+But I dare not hope it. Why should they not go on to Scotland if that had been the case?
+
+20
+00:01:51,620 --> 00:01:58,620
+In the first place, replied Mr. Gardiner, there is no absolute proof that they are not gone to Scotland.
+
+21
+00:01:58,620 --> 00:02:08,620
+Oh, but they're removing from the shays into a hackney-coach is such a presumption, and besides no traces of them were to be found on the Barnett Road.
+
+22
+00:02:09,620 --> 00:02:17,620
+While then supposing them to be in London, they may be there, though for the purpose of concealment, for no more exceptional purpose.
+
+23
+00:02:17,620 --> 00:02:30,620
+It is not likely that money should be very abundant on either side, and it might strike them that they could be more economically, though lex expeditiously, married in London than in Scotland.
+
+24
+00:02:30,620 --> 00:02:37,620
+But why all this secrecy? Why any fear of detection? Why must their marriage be private?
+
+25
+00:02:37,620 --> 00:02:47,620
+Oh, no, no, this is not likely. His most particular friend, you see, by Jane's account, was persuaded of his never-intending to marry her.
+
+26
+00:02:47,620 --> 00:03:04,620
+Wickham will never marry a woman without some money. He cannot afford it. And what claims has Lydia? What attraction has she beyond youth, health, and good humour that can make him, for her sake, forgo every chance of benefiting himself by marrying well?
+
+27
+00:03:04,620 --> 00:03:16,620
+As to what restraints the apprehensions of disgrace in the core might throw on a dishonourable elopement with her, I am not able to judge, for I know nothing of the effects that such a step might produce.
+
+28
+00:03:16,620 --> 00:03:33,620
+But as to your other objection, I am afraid it will hardly hold good. Lydia has no brothers to step forward, and he might imagine, from my father's behaviour, from his indolence and the little attention he has ever seemed to give to what was going forward in his family,
+
+29
+00:03:33,620 --> 00:03:40,620
+that he would do as little, and think as little about it, as any father could do in such a matter.
+
+30
+00:03:40,620 --> 00:03:48,620
+But can you think that Lydia is so lost to everything but love of him as to consent to live with him on any terms other than marriage?
+
+31
+00:03:49,620 --> 00:04:03,620
+It does seem, and it is most shocking indeed, replied Elizabeth with tears in her eyes, that a sister's sense of decency and virtue in such a point should admit of doubt. But really I know not what to say.
+
+32
+00:04:03,620 --> 00:04:18,620
+Perhaps I am not doing her justice, but she is very young. She has never been taught to think on serious subjects, and for the last half year, nay, for a twelve-month, she has been given up to nothing but amusement and vanity.
+
+33
+00:04:18,620 --> 00:04:25,620
+She has been allowed to dispose of her time in the most idle and frivolous manner and to adopt any opinions that came in her way.
+
+34
+00:04:25,620 --> 00:04:51,620
+Since the blank sheer were first quartered in Maryton, nothing but love, flirtation, and officers have been in her head. She has been doing everything in her power by thinking and talking on the subject to give greater, hmm, what shall I call it, susceptibility to her feelings, which are naturally lively enough, and we all know that Wickham has every charm of person and address that can captivate a woman.
+
+35
+00:04:51,620 --> 00:04:59,620
+But you see that Jane, said her aunt, does not think so very ill of Wickham as to believe him capable of the attempt.
+
+36
+00:05:00,170 --> 00:05:03,170
+Of whom does Jane ever think ill?
+
+37
+00:05:03,170 --> 00:05:08,250
+And who is there, whatever might be their former conduct, that she would think capable of such
+
+38
+00:05:08,250 --> 00:05:11,610
+an attempt till it were proved against them?
+
+39
+00:05:11,610 --> 00:05:16,010
+But Jane knows, as well as I do, what Wickham really is.
+
+40
+00:05:16,010 --> 00:05:20,650
+We both know that he has been profligate in every sense of the word, that he has neither
+
+41
+00:05:20,650 --> 00:05:26,330
+integrity nor honour, that he is as false and deceitful as he is insinuating.
+
+42
+00:05:27,210 --> 00:05:32,730
+And do you really know all this? cried Mrs. Gardiner, whose curiosity as to the
+
+43
+00:05:32,730 --> 00:05:35,210
+mode of her intelligence was all alive.
+
+44
+00:05:36,170 --> 00:05:39,130
+I do indeed, replied Elizabeth, colouring.
+
+45
+00:05:40,010 --> 00:05:45,290
+I told you the other day of his infamous behaviour to Mr. Darcy, and you yourself,
+
+46
+00:05:45,290 --> 00:05:49,290
+when last at Longbourn, heard in what manner he spoke of the man who had
+
+47
+00:05:49,290 --> 00:05:52,490
+behaved with such forbearance and liberality towards him.
+
+48
+00:05:53,290 --> 00:05:57,450
+And there are other circumstances which I am not at liberty, which it is not
+
+49
+00:05:57,450 --> 00:05:58,810
+worthwhile to relate.
+
+50
+00:05:59,450 --> 00:06:02,810
+But his lies about the whole Pemberley family are endless.
+
+51
+00:06:03,370 --> 00:06:07,530
+From what he said of Miss Darcy, I was thoroughly prepared to see a proud,
+
+52
+00:06:07,530 --> 00:06:09,290
+reserved, disagreeable girl.
+
+53
+00:06:09,930 --> 00:06:12,170
+Yet he knew to the contrary himself.
+
+54
+00:06:12,810 --> 00:06:16,890
+He must know that she was as amiable and unpretending as we have found her.
+
+55
+00:06:18,170 --> 00:06:20,330
+But does Lydia know nothing of this?
+
+56
+00:06:20,410 --> 00:06:24,090
+Can she be ignorant of what you and Jane seem so well to understand?
+
+57
+00:06:25,450 --> 00:06:28,330
+Oh yes, that, that is the worst of all.
+
+58
+00:06:28,890 --> 00:06:33,770
+Till I was in Kent and saw so much both of Mr. Darcy and his relation,
+
+59
+00:06:33,770 --> 00:06:39,530
+Colonel Fitzwilliam, I was ignorant of the truth myself, and when I returned home
+
+60
+00:06:39,530 --> 00:06:43,290
+the blank sheer was to leave Maritain in a week or fort's night time.
+
+61
+00:06:44,090 --> 00:06:48,890
+As that was the case, neither Jane to whom I related the whole, nor I
+
+62
+00:06:48,890 --> 00:06:52,570
+thought it necessary to make our knowledge public, for of what use
+
+63
+00:06:52,570 --> 00:06:56,570
+could it apparently be to any one, that the good opinion which all the
+
+64
+00:06:56,570 --> 00:06:59,530
+neighborhood had of him should then be overthrown.
+
+65
+00:07:00,250 --> 00:07:04,010
+And even when it was settled that Lydia should go with Mrs. Forster,
+
+66
+00:07:04,010 --> 00:07:07,450
+the necessity of opening her eyes to his character never occurred to
+
+67
+00:07:07,450 --> 00:07:11,450
+me, that she could be in any danger from the deception never
+
+68
+00:07:11,450 --> 00:07:16,090
+entered my head, that such a consequence as this could ensue,
+
+69
+00:07:16,090 --> 00:07:19,210
+you may easily believe, was far enough from my thoughts.
+
+70
+00:07:20,650 --> 00:07:23,370
+When they are all removed to Brighton, therefore you had no reason,
+
+71
+00:07:23,370 --> 00:07:25,450
+I suppose, to believe them fond of each other.
+
+72
+00:07:26,570 --> 00:07:30,570
+Not the slightest. I can remember no symptom of affection on either
+
+73
+00:07:30,570 --> 00:07:34,570
+side, and had anything of the kind been perceptible, you must
+
+74
+00:07:34,570 --> 00:07:38,010
+be aware that ours is not a family on which it could be thrown away.
+
+75
+00:07:38,730 --> 00:07:41,930
+When he first entered the core, she was ready enough to
+
+76
+00:07:41,930 --> 00:07:47,290
+admire him, but so we all were. Every girl in or near Mariton was out
+
+77
+00:07:47,290 --> 00:07:50,650
+of her senses about him for the first two months, but he never
+
+78
+00:07:50,650 --> 00:07:55,130
+distinguished her by any particular attention, and consequently
+
+79
+00:07:55,130 --> 00:07:59,450
+after a moderate period of extravagant and wild admiration her
+
+80
+00:07:59,450 --> 00:08:03,210
+fancy for him gave way, and others of the regiment who treated
+
+81
+00:08:03,210 --> 00:08:06,490
+her with more distinction again became her favorites.
+
+82
+00:08:06,890 --> 00:08:10,970
+It may be easily believed that however little of novelty could be
+
+83
+00:08:10,970 --> 00:08:14,170
+added to their fears, hopes, and conjectures on this
+
+84
+00:08:14,170 --> 00:08:18,650
+interesting subject by its repeated discussion, no other could
+
+85
+00:08:18,650 --> 00:08:21,850
+detain them from it long during the whole of the journey.
+
+86
+00:08:22,810 --> 00:08:27,450
+From Elizabeth's thoughts it was never absent. Fixed there by
+
+87
+00:08:27,450 --> 00:08:31,690
+the keenest of all anguish, self-approach, she could find no
+
+88
+00:08:31,690 --> 00:08:34,170
+interval of ease or forgetfulness.
+
+89
+00:08:34,170 --> 00:08:38,170
+They traveled as expeditiously as possible, and sleeping one night
+
+90
+00:08:38,170 --> 00:08:41,770
+on the road, reached long-born by dinnertime the next day.
+
+91
+00:08:42,490 --> 00:08:45,850
+It was a comfort to Elizabeth to consider that Jane could not
+
+92
+00:08:45,850 --> 00:08:48,250
+have been wearied by long expectations.
+
+93
+00:08:49,290 --> 00:08:53,050
+The little gardeners attracted by the sight of a sheaes were
+
+94
+00:08:53,050 --> 00:08:55,370
+standing on the steps of the house as they entered the
+
+95
+00:08:55,370 --> 00:08:59,050
+paddock, and when the carriage drove up to the door, the
+
+96
+00:08:59,050 --> 00:09:03,210
+joyful surprise that lighted up their faces, the little
+
+97
+00:09:03,210 --> 00:09:06,650
+gardeners gathered up their faces, and displayed itself over
+
+98
+00:09:06,650 --> 00:09:11,450
+their whole bodies in a variety of capers and frisks, was the
+
+99
+00:09:11,450 --> 00:09:13,610
+first pleasing earnest of their welcome.
+
+100
+00:09:14,650 --> 00:09:17,930
+Elizabeth jumped out, and after giving each of them a hasty
+
+101
+00:09:17,930 --> 00:09:22,090
+kiss, hurried into the vestibule, where Jane, who came running
+
+102
+00:09:22,090 --> 00:09:25,450
+down from her mother's apartment, immediately met her.
+
+103
+00:09:26,330 --> 00:09:30,250
+Elizabeth, as she affectionately embraced her, whilst tears
+
+104
+00:09:30,250 --> 00:09:34,250
+both, lost not a moment in asking whether anything had been heard
+
+105
+00:09:34,250 --> 00:09:35,210
+of the fugitives.
+
+106
+00:09:36,330 --> 00:09:40,330
+Not yet, replied Jane, but now that my dear uncle is come I hope
+
+107
+00:09:40,330 --> 00:09:41,450
+everything will be well.
+
+108
+00:09:42,490 --> 00:09:43,690
+Is my father in town?
+
+109
+00:09:44,490 --> 00:09:46,890
+Yes, he went on Tuesday, as I wrote you word.
+
+110
+00:09:47,530 --> 00:09:48,890
+And have you heard from him often?
+
+111
+00:09:49,850 --> 00:09:51,610
+We have heard only twice.
+
+112
+00:09:51,610 --> 00:09:54,170
+He wrote me a few lines on Wednesday to say that he had
+
+113
+00:09:54,170 --> 00:09:57,610
+arrived in safety, and to give me his directions, which I
+
+114
+00:09:57,610 --> 00:09:59,210
+particularly begged him to do.
+
+115
+00:09:59,740 --> 00:10:04,860
+He merely added that he should not write again till he had something of importance to mention.
+
+116
+00:10:04,860 --> 00:10:07,260
+And my mother, how is she?
+
+117
+00:10:07,260 --> 00:10:09,300
+How are you all?
+
+118
+00:10:09,300 --> 00:10:13,860
+My mother is tolerably well, I trust, though her spirits are greatly shaken.
+
+119
+00:10:13,860 --> 00:10:18,100
+She is upstairs, and will have great satisfaction in seeing you all.
+
+120
+00:10:18,100 --> 00:10:20,740
+She does not yet leave her dressing-room.
+
+121
+00:10:20,740 --> 00:10:23,660
+Mary and Kitty, thank heaven, are quite well.
+
+122
+00:10:24,660 --> 00:10:27,700
+But you, how are you? cried Elizabeth.
+
+123
+00:10:27,700 --> 00:10:29,020
+You look pale.
+
+124
+00:10:29,020 --> 00:10:31,540
+How much you must have gone through!
+
+125
+00:10:31,540 --> 00:10:36,620
+Her sister, however, assured her of being perfectly well, and their conversation, which had been
+
+126
+00:10:36,620 --> 00:10:42,460
+passing while Mr. and Mrs. Gardiner were engaged with their children, was now put an end to
+
+127
+00:10:42,460 --> 00:10:45,420
+by the approach of the whole party.
+
+128
+00:10:45,420 --> 00:10:50,660
+Jane ran to her uncle and aunt and welcomed and thanked them both, with alternate smiles
+
+129
+00:10:50,660 --> 00:10:52,700
+and tears.
+
+130
+00:10:52,700 --> 00:10:56,660
+When they were all in the drawing-room, the questions which Elizabeth had already asked
+
+131
+00:10:56,660 --> 00:11:01,140
+were of course repeated by the others, and they soon found that Jane had no intelligence
+
+132
+00:11:01,140 --> 00:11:02,700
+to give.
+
+133
+00:11:02,700 --> 00:11:07,220
+The sanguine hope of good, however, which the benevolence of her heart suggested, had
+
+134
+00:11:07,220 --> 00:11:09,140
+not yet deserted her.
+
+135
+00:11:09,140 --> 00:11:13,420
+She still expected that it would all end well, and that every morning would bring some
+
+136
+00:11:13,420 --> 00:11:19,540
+letter, either from Lydia or her father, to explain their proceedings, and perhaps
+
+137
+00:11:19,540 --> 00:11:22,180
+announce their marriage.
+
+138
+00:11:22,180 --> 00:11:26,860
+Mrs. Bennet, to whose apartment they all repaired, after a few minutes' conversation
+
+139
+00:11:26,860 --> 00:11:31,220
+together, received them exactly as might be expected.
+
+140
+00:11:31,220 --> 00:11:36,540
+With tears and lamentations of regret, invectives against the villainous conduct
+
+141
+00:11:36,540 --> 00:11:41,620
+of Wickham, and complaints of her own sufferings and ill usage, blaming
+
+142
+00:11:41,620 --> 00:11:46,220
+everybody but the person to whose ill-judging indulgence the errors of
+
+143
+00:11:46,220 --> 00:11:48,740
+her daughter must principally be owing.
+
+144
+00:11:49,660 --> 00:11:54,020
+If I had been able, said she, to carry my point, and going to brighten with
+
+145
+00:11:54,020 --> 00:11:58,460
+all my family, this would not have happened, but poor dear Lydia had
+
+146
+00:11:58,460 --> 00:12:00,860
+nobody to take care of her.
+
+147
+00:12:00,860 --> 00:12:03,780
+Why did the Forsters ever let her go out of their sight?
+
+148
+00:12:03,780 --> 00:12:07,300
+I am sure there was some great neglector other on their side, for she
+
+149
+00:12:07,300 --> 00:12:10,180
+is not the kind of girl to do such a thing if she had been well
+
+150
+00:12:10,180 --> 00:12:11,660
+looked after.
+
+151
+00:12:11,660 --> 00:12:15,180
+I always thought they were very unfit to have the charge of her, but
+
+152
+00:12:15,180 --> 00:12:18,540
+I was overruled, as I always am.
+
+153
+00:12:18,540 --> 00:12:20,300
+Poor dear child!
+
+154
+00:12:20,300 --> 00:12:24,980
+And now here's Mr. Bennet gone away, and I know he will fight Wickham,
+
+155
+00:12:24,980 --> 00:12:27,460
+wherever he meets him, and then he will be killed, and what is to
+
+156
+00:12:27,460 --> 00:12:29,100
+become of us all?
+
+157
+00:12:29,100 --> 00:12:32,260
+The Collinses will turn us out before he is cold in his grave, and if
+
+158
+00:12:32,260 --> 00:12:37,100
+you are not kind to us, brother, I do not know what we shall do.
+
+159
+00:12:37,100 --> 00:12:42,100
+They all exclaimed against such terrific ideas, and Mr. Gardiner,
+
+160
+00:12:42,100 --> 00:12:45,740
+after general assurances of his affection for her and all her
+
+161
+00:12:45,740 --> 00:12:49,820
+family, told her that he meant to be in London the very next day,
+
+162
+00:12:49,820 --> 00:12:54,900
+and would assist Mr. Bennet in every endeavour for recovering Lydia.
+
+163
+00:12:54,900 --> 00:12:59,260
+Do not give way to useless alarm, added he, though it is right to be
+
+164
+00:12:59,260 --> 00:13:02,900
+prepared for the worst, there is no occasion to look on it as
+
+165
+00:13:02,900 --> 00:13:03,900
+certain.
+
+166
+00:13:03,900 --> 00:13:07,620
+It is not quite a week since they left Brighton, and a few days
+
+167
+00:13:07,620 --> 00:13:11,340
+more we may gain some news of them, and till we know that they
+
+168
+00:13:11,340 --> 00:13:15,260
+are not married, and have no design of marrying, do not let
+
+169
+00:13:15,260 --> 00:13:17,940
+us give the matter over as lost.
+
+170
+00:13:17,940 --> 00:13:21,260
+As soon as I get to town I shall go to my brother, and make him come
+
+171
+00:13:21,260 --> 00:13:24,420
+home with me to Grace Church Street, and then we may consult
+
+172
+00:13:24,420 --> 00:13:26,940
+together as to what is to be done.
+
+173
+00:13:26,940 --> 00:13:31,940
+Oh, my dear brother, replied Mrs. Bennet, that is exactly what I
+
+174
+00:13:31,940 --> 00:13:36,380
+could most wish for, and now do, when you get to town, find
+
+175
+00:13:36,380 --> 00:13:39,380
+them out wherever they may be, and if they are not married
+
+176
+00:13:39,380 --> 00:13:43,100
+already, make them marry, and as for wedding clothes, do not
+
+177
+00:13:43,100 --> 00:13:45,620
+let them wait for that, but tell Lydia she shall have as much
+
+178
+00:13:45,620 --> 00:13:49,460
+money as she chooses to buy them, after they are married, and above
+
+179
+00:13:49,460 --> 00:13:52,340
+all keep Mr. Bennet from fighting.
+
+180
+00:13:52,340 --> 00:13:55,540
+Tell him what a dreadful state I am in, that I am frighted out
+
+181
+00:13:55,540 --> 00:13:59,420
+of my wits, and have such trumblings, such flutterings all over
+
+182
+00:13:59,420 --> 00:14:03,340
+me, such spasms in my side, and pains in my head, and such
+
+183
+00:14:03,340 --> 00:14:07,820
+beatings at heart, that I can get no rest by night nor by day.
+
+184
+00:14:07,820 --> 00:14:10,540
+And tell my dear Lydia not to give any directions about her
+
+185
+00:14:10,540 --> 00:14:13,580
+clothes till she has seen me, for she does not know which are the
+
+186
+00:14:13,580 --> 00:14:15,060
+best warehouses.
+
+187
+00:14:15,060 --> 00:14:17,420
+Oh, brother, how kind you are!
+
+188
+00:14:17,420 --> 00:14:20,540
+I know you will contrive it all.
+
+189
+00:14:20,540 --> 00:14:23,500
+But Mr. Gardiner, though he assured her again of his earnest
+
+190
+00:14:23,500 --> 00:14:27,220
+endeavours in the cause, could not avoid recommending moderation
+
+191
+00:14:27,220 --> 00:14:31,740
+to her, as well in her hopes as her fear, and after talking
+
+192
+00:14:31,740 --> 00:14:34,580
+with her in this manner till dinner was on the table, they
+
+193
+00:14:34,580 --> 00:14:37,860
+all left her to vent all her feelings on the housekeeper,
+
+194
+00:14:37,860 --> 00:14:41,340
+who attended in the absence of her daughters.
+
+195
+00:14:41,340 --> 00:14:44,460
+Though her brother and sister were persuaded that there was no
+
+196
+00:14:44,460 --> 00:14:48,420
+relocation for such a seclusion from the family, they did not
+
+197
+00:14:48,420 --> 00:14:51,740
+attempt to oppose it, for they knew that she had not prudence
+
+198
+00:14:51,740 --> 00:14:54,660
+enough to hold her tongue before the servants while they waited
+
+199
+00:14:54,660 --> 00:14:58,620
+at table, and judged it better that one only of the household
+
+200
+00:14:58,820 --> 00:15:03,980
+and the one whom they could most trust should comprehend all her fears and solicitude on
+
+201
+00:15:03,980 --> 00:15:06,500
+the subject.
+
+202
+00:15:06,500 --> 00:15:12,180
+In the dining-room they were soon joined by Mary and Kitty, who had been too busily engaged
+
+203
+00:15:12,180 --> 00:15:16,500
+in their separate apartments to make their appearance before.
+
+204
+00:15:16,500 --> 00:15:20,540
+One came from her books, and the other from her toilette.
+
+205
+00:15:20,540 --> 00:15:26,780
+The faces of both, however, were tolerably calm, and no change was visible in either,
+
+206
+00:15:26,940 --> 00:15:31,660
+that the loss of her favourite sister, or the anger which she had herself incurred in
+
+207
+00:15:31,660 --> 00:15:38,660
+this business, had given more of fretfulness than usual to the accents of Kitty.
+
+208
+00:15:38,660 --> 00:15:43,980
+As for Mary, she was mistress enough of herself to whisper to Elizabeth, with accountants
+
+209
+00:15:43,980 --> 00:15:48,900
+of grave reflection soon after they were seated at the table.
+
+210
+00:15:48,900 --> 00:15:54,500
+This is a most unfortunate affair, and will probably be much talked of, but we must
+
+211
+00:15:54,500 --> 00:16:01,220
+stem the tide of malice and pour into the wounded bosoms of each other the balm of sisterly
+
+212
+00:16:01,220 --> 00:16:03,740
+consolation.
+
+213
+00:16:03,740 --> 00:16:08,620
+Then, perceiving in Elizabeth no inclination of replying, she added,
+
+214
+00:16:08,620 --> 00:16:15,700
+Unhappy as the event must be for Lydia, we may draw from it this useful lesson, that
+
+215
+00:16:15,700 --> 00:16:21,620
+loss of virtue in a female is irretrievable, that one false step involves her in
+
+216
+00:16:21,620 --> 00:16:27,580
+endless ruin, that her reputation is no less brittle than it is beautiful,
+
+217
+00:16:27,580 --> 00:16:31,980
+and that she cannot be too much guarded in her behaviour towards the undeserving
+
+218
+00:16:31,980 --> 00:16:34,980
+of the other sex.
+
+219
+00:16:34,980 --> 00:16:38,660
+Elizabeth lifted up her eyes in amazement, but was too much oppressed
+
+220
+00:16:38,660 --> 00:16:41,060
+to make any reply.
+
+221
+00:16:41,060 --> 00:16:45,420
+Mary, however, continued to console herself with such kind of moral
+
+222
+00:16:45,420 --> 00:16:49,100
+extractions from the evil before them.
+
+223
+00:16:49,100 --> 00:16:53,280
+In the afternoon the two elder Miss Bennets were able to be for half an hour
+
+224
+00:16:53,280 --> 00:16:58,300
+by themselves, and Elizabeth instantly availed herself of the opportunity
+
+225
+00:16:58,300 --> 00:17:04,260
+of making any inquiries which Jane was equally eager to satisfy.
+
+226
+00:17:04,260 --> 00:17:09,260
+After joining in general lamentations over the dreadful sequel of this event,
+
+227
+00:17:09,260 --> 00:17:13,220
+which Elizabeth considered as all but certain, and Miss Bennet could not
+
+228
+00:17:13,220 --> 00:17:17,780
+assert to be wholly impossible, the former continued the subject by
+
+229
+00:17:17,780 --> 00:17:21,700
+saying, But tell me all and everything about it which I have not
+
+230
+00:17:21,700 --> 00:17:23,260
+already heard.
+
+231
+00:17:23,260 --> 00:17:25,260
+Give me further particulars.
+
+232
+00:17:25,260 --> 00:17:27,220
+What did Colonel Forster say?
+
+233
+00:17:27,220 --> 00:17:31,180
+Had they no apprehension of anything before the elopement took place?
+
+234
+00:17:31,180 --> 00:17:34,780
+They must have seen them together for ever.
+
+235
+00:17:34,780 --> 00:17:39,460
+Colonel Forster did own that he had often suspected some partiality,
+
+236
+00:17:39,460 --> 00:17:43,300
+especially on Lydia's side, but nothing to give him any alarm.
+
+237
+00:17:43,300 --> 00:17:45,740
+I am so grieved for him.
+
+238
+00:17:45,740 --> 00:17:49,340
+His behaviour was attentive and kind to the utmost.
+
+239
+00:17:49,340 --> 00:17:54,260
+He was coming to us in order to assure us of his concern before he had
+
+240
+00:17:54,260 --> 00:17:57,740
+any idea of there not being gone to Scotland.
+
+241
+00:17:57,740 --> 00:18:02,780
+When that apprehension first got abroad it hastened his journey.
+
+242
+00:18:02,780 --> 00:18:05,540
+And was Denny convinced that Wickham would not marry?
+
+243
+00:18:05,540 --> 00:18:08,020
+Did he know of their intending to go off?
+
+244
+00:18:08,020 --> 00:18:10,780
+Had Colonel Forster seen Denny himself?
+
+245
+00:18:10,780 --> 00:18:15,220
+Yes, but when questioned by him, Denny denied knowing anything
+
+246
+00:18:15,220 --> 00:18:19,220
+of their plans, and would not give his real opinion about it.
+
+247
+00:18:19,220 --> 00:18:22,500
+He did not repeat his persuasion of their not marrying, and from
+
+248
+00:18:22,500 --> 00:18:28,100
+that I am inclined to hope he might have been misunderstood before.
+
+249
+00:18:28,100 --> 00:18:31,660
+Until Colonel Forster came himself, not one of you entertained a doubt,
+
+250
+00:18:31,660 --> 00:18:35,100
+I suppose, of their being really married.
+
+251
+00:18:35,100 --> 00:18:38,620
+How was it possible that such an idea could enter our brains?
+
+252
+00:18:38,620 --> 00:18:42,320
+I felt a little uneasy, a little fearful of my sister's happiness
+
+253
+00:18:42,320 --> 00:18:45,800
+with him in marriage, because I knew that his conduct had not been
+
+254
+00:18:45,800 --> 00:18:47,720
+always quite right.
+
+255
+00:18:47,720 --> 00:18:49,840
+My father and mother knew nothing of that.
+
+256
+00:18:49,840 --> 00:18:53,880
+They only felt how imprudent a match it must be.
+
+257
+00:18:53,880 --> 00:18:57,680
+Kitty then owned, with a very natural triumph, unknowing more than the
+
+258
+00:18:57,680 --> 00:19:03,120
+rest of us, that in Lydia's last pletter she had prepared her for such a step.
+
+259
+00:19:03,120 --> 00:19:07,720
+She had known, it seems, of their being in love with each other many weeks.
+
+260
+00:19:07,720 --> 00:19:09,680
+But not before they went to Brighton?
+
+261
+00:19:09,680 --> 00:19:12,240
+No, I believe not.
+
+262
+00:19:12,240 --> 00:19:15,960
+Did Colonel Forster appear to think well of Wickham himself?
+
+263
+00:19:15,960 --> 00:19:18,400
+Does he know his real character?
+
+264
+00:19:18,400 --> 00:19:23,280
+I must confess that he did not speak so well of Wickham as he formerly did.
+
+265
+00:19:23,280 --> 00:19:27,440
+He believed him to be imprudent and extravagant, and since this sad
+
+266
+00:19:27,440 --> 00:19:32,840
+affair has taken place, it is said that he left Mariton greatly in debt.
+
+267
+00:19:32,840 --> 00:19:35,320
+But I hope this may be false.
+
+268
+00:19:35,320 --> 00:19:40,440
+Oh Jane, had we been less secret, had we told what we knew of him,
+
+269
+00:19:40,440 --> 00:19:43,360
+this could not have happened.
+
+270
+00:19:43,360 --> 00:19:46,400
+Perhaps it would have been better, replied her sister.
+
+271
+00:19:46,400 --> 00:19:50,320
+But to expose the former faults of any person, without knowing what
+
+272
+00:19:50,320 --> 00:19:54,280
+their present feelings were, seemed unjustifiable.
+
+273
+00:19:54,280 --> 00:19:56,240
+We acted with the best intentions.
+
+274
+00:19:56,880 --> 00:20:01,800
+Could Colonel Forster repeat the particulars of Lydia's note to his wife?
+
+275
+00:20:01,800 --> 00:20:04,880
+He brought it with him for us to see.
+
+276
+00:20:04,880 --> 00:20:09,360
+Jane then took it from her pocket-book, and gave it to Elizabeth.
+
+277
+00:20:09,360 --> 00:20:11,160
+These were the contents.
+
+278
+00:20:11,160 --> 00:20:16,840
+"'My dear Harriet, you will laugh when you know where I am gone, and I cannot help laughing
+
+279
+00:20:16,840 --> 00:20:21,160
+myself at your surprise tomorrow morning, as soon as I am missed.
+
+280
+00:20:21,160 --> 00:20:26,840
+I am going to Gretna Green, and if you cannot guess with who, I shall think you a simpleton,
+
+281
+00:20:26,920 --> 00:20:31,360
+for there is but one man in the world I love, and he is an angel.
+
+282
+00:20:31,360 --> 00:20:35,880
+I should never be happy without him, so think it no harm to be off.
+
+283
+00:20:35,880 --> 00:20:40,000
+You need not send them word at long-born of my going, if you do not like it, for it will
+
+284
+00:20:40,000 --> 00:20:45,080
+make the surprise the greater when I write to them and sign my name, Lydia Wickham.
+
+285
+00:20:45,080 --> 00:20:46,960
+What a good joke it will be!
+
+286
+00:20:46,960 --> 00:20:49,160
+I can hardly write for laughing.
+
+287
+00:20:49,160 --> 00:20:54,880
+Pray make my excuses to Pratt for not keeping my engagement and dancing with him to-night.
+
+288
+00:20:54,920 --> 00:20:58,920
+Tell him I hope he will excuse me when he knows all, and tell him I will dance with him
+
+289
+00:20:58,920 --> 00:21:02,080
+at the next ball we meet, with great pleasure.
+
+290
+00:21:02,080 --> 00:21:06,240
+I shall send for my clothes when I get to Longbourn, but I wish you would tell Sally
+
+291
+00:21:06,240 --> 00:21:10,800
+to mend a great slit in my worked muslin gown before they are packed up.
+
+292
+00:21:10,800 --> 00:21:13,480
+Goodbye, give my love to Colonel Forster.
+
+293
+00:21:13,480 --> 00:21:16,120
+I hope you will drink to our good journey.
+
+294
+00:21:16,120 --> 00:21:18,480
+Your affectionate friend, Lydia Bennet."
+
+295
+00:21:19,480 --> 00:21:26,080
+Oh, thoughtless, thoughtless Lydia! cried Elizabeth when she had finished it.
+
+296
+00:21:26,080 --> 00:21:29,600
+What a letter is this to be written at such a moment!
+
+297
+00:21:29,600 --> 00:21:34,160
+But at least it shows that she was serious on the subject of their journey.
+
+298
+00:21:34,160 --> 00:21:38,960
+Whatever he might afterwards have persuaded her to, it was not on her side a scheme of
+
+299
+00:21:38,960 --> 00:21:40,480
+infamy.
+
+300
+00:21:40,480 --> 00:21:45,000
+My poor father, how he must have felt it!
+
+301
+00:21:45,000 --> 00:21:47,320
+I never saw anyone so shocked.
+
+302
+00:21:47,360 --> 00:21:50,520
+He could not speak a word for full ten minutes.
+
+303
+00:21:50,520 --> 00:21:55,440
+My mother was taken ill immediately, and the whole house in such confusion.
+
+304
+00:21:55,440 --> 00:22:01,480
+Oh, Jane! cried Elizabeth, was there a servant belonging to it who did not know the whole
+
+305
+00:22:01,480 --> 00:22:04,560
+story before the end of the day?
+
+306
+00:22:04,560 --> 00:22:10,720
+I do not know, I hope there was, but to be guarded at such a time is very difficult.
+
+307
+00:22:10,720 --> 00:22:14,840
+My mother was in hysterics, and though I endeavored to give her every assistance
+
+308
+00:22:14,880 --> 00:22:20,400
+in my power, I am afraid I did not do so much as I might have done.
+
+309
+00:22:20,400 --> 00:22:25,960
+But the horror of what might possibly happen almost took me from my faculties.
+
+310
+00:22:25,960 --> 00:22:28,900
+Your attendance upon her has been too much for you.
+
+311
+00:22:28,900 --> 00:22:30,400
+You do not look well.
+
+312
+00:22:30,400 --> 00:22:32,880
+Oh, that I had been with you!
+
+313
+00:22:32,880 --> 00:22:37,720
+You have had every care and anxiety upon yourself alone.
+
+314
+00:22:37,720 --> 00:22:42,520
+Mary and Kitty have been very kind, and would have shared in every fatigue, I am sure.
+
+315
+00:22:43,040 --> 00:22:46,080
+But I did not think it right for either of them.
+
+316
+00:22:46,080 --> 00:22:51,760
+Kitty is slight and delicate, and Mary studies so much that her hours of repose should not
+
+317
+00:22:51,760 --> 00:22:53,640
+be broken in on.
+
+318
+00:22:53,640 --> 00:22:58,400
+My aunt Phillips came to Longbourn on Tuesday after my father went away, and was so good
+
+319
+00:22:58,400 --> 00:23:01,000
+as to stay till Thursday with me.
+
+320
+00:23:01,000 --> 00:23:06,320
+She was of great use and comfort to us all, and Lady Lucas has been very kind.
+
+321
+00:23:06,320 --> 00:23:10,880
+She walked here on Wednesday morning to condole with us, and offered her services,
+
+322
+00:23:10,880 --> 00:23:14,960
+or any of her daughters, if they should be of use to us.
+
+323
+00:23:14,960 --> 00:23:18,440
+She had better have stayed at home, cried Elizabeth.
+
+324
+00:23:18,440 --> 00:23:24,600
+Perhaps she meant well, but under such a misfortune as this one cannot see too little of one's
+
+325
+00:23:24,600 --> 00:23:26,120
+neighbours.
+
+326
+00:23:26,120 --> 00:23:29,680
+Assistance is impossible, condolence insufferable.
+
+327
+00:23:29,680 --> 00:23:34,000
+Let them triumph over us at a distance, and be satisfied.
+
+328
+00:23:34,000 --> 00:23:39,160
+She then proceeded to inquire into the measures which her father had intended to pursue,
+
+329
+00:23:39,160 --> 00:23:42,240
+well in town, for the recovery of his daughter.
+
+330
+00:23:42,240 --> 00:23:49,320
+He meant, I believe, replied Jane, to go to Epsom, a place where they last changed horses,
+
+331
+00:23:49,320 --> 00:23:54,160
+see the postillions, and try if anything could be made out from them.
+
+332
+00:23:54,160 --> 00:23:58,520
+His principal object must be to discover the number of the Hackney coach which took
+
+333
+00:23:58,520 --> 00:24:00,280
+them from Clapham.
+
+334
+00:24:00,280 --> 00:24:04,760
+It had come with a fare from London, and has he thought that the circumstance of a gentleman
+
+335
+00:24:04,760 --> 00:24:09,800
+and a lady's removing from one carriage into another might be remarked, he meant to
+
+336
+00:24:09,800 --> 00:24:12,000
+make inquiries at Clapham.
+
+337
+00:24:12,000 --> 00:24:16,880
+If he could anyhow discover at what house the coachman had before set down his fare,
+
+338
+00:24:16,880 --> 00:24:21,120
+he determined to make inquiries there, and hoped it might not be impossible to find
+
+339
+00:24:21,120 --> 00:24:24,000
+out the stand and number of the coach.
+
+340
+00:24:24,000 --> 00:24:28,640
+I do not know of any other designs that he had formed, but he was in such a hurry
+
+341
+00:24:28,640 --> 00:24:34,720
+to be gone, and his spirit so greatly discomposed, that I had difficulty in finding out even
+
+342
+00:24:34,760 --> 00:24:38,600
+so much as this.
+
+343
+00:24:38,600 --> 00:24:44,080
+End of Chapter 47
+
+344
+00:24:44,080 --> 00:24:46,360
+Chapter 48
+
+345
+00:24:46,360 --> 00:24:51,240
+The whole party were in hopes of a letter from Mr. Bennett the next morning, but the post
+
+346
+00:24:51,240 --> 00:24:54,680
+came in without bringing a single line from him.
+
+347
+00:24:54,680 --> 00:24:57,880
+His family knew him to be on all communications.
+
+348
+00:24:58,040 --> 00:25:05,120
+a most negligent and dilatory correspondent, but at such a time they had hoped for exertion.
+
+349
+00:25:05,120 --> 00:25:09,720
+They were forced to conclude that he had no pleasing intelligence to send, but even of
+
+350
+00:25:09,720 --> 00:25:14,880
+that they would have been glad to be certain. Mr. Gardiner had only waited for the letters
+
+351
+00:25:14,880 --> 00:25:20,440
+before he set off. When he was gone they were certain at least of receiving constant
+
+352
+00:25:20,440 --> 00:25:26,640
+information of what was going on, and their uncle promised, at parting, to prevail on
+
+353
+00:25:26,640 --> 00:25:30,880
+Mr. Bennet to return to Longbourn as soon as he could, to the great
+
+354
+00:25:30,880 --> 00:25:35,240
+consolation of his sister, who considered it as the only security for her
+
+355
+00:25:35,240 --> 00:25:40,600
+husbands not being killed in a duel. Mrs. Gardiner and the children were to
+
+356
+00:25:40,600 --> 00:25:44,600
+remain in Hartfordshire a few days longer, as the former thought her
+
+357
+00:25:44,600 --> 00:25:48,720
+presence might be serviceable to her nieces. She shared in their
+
+358
+00:25:48,720 --> 00:25:52,400
+attendance on Mrs. Bennet, and was of great comfort to them in their
+
+359
+00:25:52,400 --> 00:25:57,680
+hours of freedom. Their other aunt, who visited them frequently and always,
+
+360
+00:25:57,680 --> 00:26:02,400
+as she said, with the design of cheering and heartening them up, though as
+
+361
+00:26:02,400 --> 00:26:06,840
+she never came without reporting some fresh instant of Wickham's extravagance
+
+362
+00:26:06,840 --> 00:26:10,840
+or irregularity, she seldom went away without leaving them more
+
+363
+00:26:10,840 --> 00:26:16,480
+dispirited than she found them. All Mariton seemed striving to blacken
+
+364
+00:26:16,480 --> 00:26:22,360
+the man who, but three months before, had been almost an angel of light.
+
+365
+00:26:22,360 --> 00:26:26,280
+She was declared to be in debt to every tradesman in the place, and
+
+366
+00:26:26,280 --> 00:26:30,440
+his intrigues, all honoured with the title of seduction, had been
+
+367
+00:26:30,440 --> 00:26:35,360
+extended into every tradesman's family. Everybody declared that he was
+
+368
+00:26:35,360 --> 00:26:39,760
+the wickedest young man in the world, and everybody began to find out
+
+369
+00:26:39,760 --> 00:26:43,920
+that they had always distrusted the appearance of his goodness.
+
+370
+00:26:43,920 --> 00:26:48,000
+Elizabeth, though she did not credit above half of what was said,
+
+371
+00:26:48,000 --> 00:26:52,080
+believed enough to make her former assurance of her sister's ruin more
+
+372
+00:26:52,120 --> 00:26:56,800
+certain, and even Jane, who believed still less of it, became almost
+
+373
+00:26:56,800 --> 00:27:01,600
+hopeless, more especially as the time was now come when, if they had
+
+374
+00:27:01,600 --> 00:27:06,440
+gone to Scotland, which she had never before entirely disbared of,
+
+375
+00:27:06,440 --> 00:27:11,400
+they must in all probability have gained some news of them.
+
+376
+00:27:11,400 --> 00:27:15,400
+Mr. Gardiner left long-born on Sunday. On Tuesday his wife
+
+377
+00:27:15,400 --> 00:27:19,560
+received a letter from him. They told them that, on his arrival,
+
+378
+00:27:19,560 --> 00:27:22,960
+he had immediately found out his brother and persuaded him to come
+
+379
+00:27:22,960 --> 00:27:27,240
+to Grace Church Street, that Mr. Bennett had been to Epsom and Clapham
+
+380
+00:27:27,240 --> 00:27:32,360
+before his arrival, but without gaining any satisfactory information,
+
+381
+00:27:32,360 --> 00:27:35,320
+and that he was now determined to inquire at all the principal
+
+382
+00:27:35,320 --> 00:27:39,240
+hotels in town, as Mr. Bennett thought it possible they might have
+
+383
+00:27:39,240 --> 00:27:43,160
+gone to one of them on their first coming to London before they
+
+384
+00:27:43,160 --> 00:27:47,720
+procured lodgings. Mr. Gardiner himself did not expect any
+
+385
+00:27:47,760 --> 00:27:52,040
+success from this measure, but as his brother was eager in it, he
+
+386
+00:27:52,040 --> 00:27:56,320
+meant to assist him in pursuing it. He added that Mr. Bennett
+
+387
+00:27:56,320 --> 00:27:59,880
+seemed wholly disinclined at present to leave London, and
+
+388
+00:27:59,880 --> 00:28:04,520
+promised to write again very soon. There was also a post-script
+
+389
+00:28:04,520 --> 00:28:06,360
+to this effect.
+
+390
+00:28:06,360 --> 00:28:10,000
+I have written to Colonel Forster to desire him to find out,
+
+391
+00:28:10,000 --> 00:28:13,240
+if possible, from some of the young man's intimates in the
+
+392
+00:28:13,240 --> 00:28:17,280
+regiment, whether Wickham has any relations or connections who
+
+393
+00:28:17,320 --> 00:28:20,040
+would be likely to know in what part of town he has now
+
+394
+00:28:20,040 --> 00:28:24,240
+concealed himself. If there were any one that one could apply to
+
+395
+00:28:24,240 --> 00:28:28,480
+with a probability of gaining such a clue as that, it might be
+
+396
+00:28:28,480 --> 00:28:33,440
+of essential consequence. At present we have nothing to guide us.
+
+397
+00:28:33,440 --> 00:28:36,640
+Colonel Forster will, I dare say, do everything in his power
+
+398
+00:28:36,640 --> 00:28:41,080
+to satisfy us on this head. But, on second thoughts, perhaps
+
+399
+00:28:41,080 --> 00:28:44,240
+Lizzie could tell us what relations he has now living, better
+
+400
+00:28:44,280 --> 00:28:46,880
+than any other person.
+
+401
+00:28:46,880 --> 00:28:50,120
+Elizabeth was at no loss to understand from where this
+
+402
+00:28:50,120 --> 00:28:54,320
+deference to her authority proceeded, but it was not in her power
+
+403
+00:28:54,320 --> 00:28:57,840
+to give any information of so satisfactory a nature as the
+
+404
+00:28:57,840 --> 00:29:01,480
+compliment deserved. She had never heard of his having had any
+
+405
+00:29:01,480 --> 00:29:05,280
+relations except a father and mother, both of whom had been
+
+406
+00:29:05,280 --> 00:29:09,280
+dead many years. It was possible, however, that some of his
+
+407
+00:29:09,280 --> 00:29:12,800
+companions in the blank sheer might be able to give more
+
+408
+00:29:12,840 --> 00:29:16,040
+information, and though she was not very sanguine in
+
+409
+00:29:16,040 --> 00:29:20,160
+expecting it, the application was a something to look forward
+
+410
+00:29:20,160 --> 00:29:25,120
+to. Every day at Longbourn was now a day of anxiety, but the
+
+411
+00:29:25,120 --> 00:29:29,520
+most anxious part of each was when the post was expected. The
+
+412
+00:29:29,520 --> 00:29:32,640
+arrival of letters was a grand object of every morning's
+
+413
+00:29:32,640 --> 00:29:36,880
+impatience. Through letters whatever of good or bad was to
+
+414
+00:29:36,880 --> 00:29:40,880
+be told would be communicated, and every succeeding day was
+
+415
+00:29:40,960 --> 00:29:44,960
+expected to bring some news of importance. But before they heard
+
+416
+00:29:44,960 --> 00:29:48,960
+again from Mr. Gardiner, a letter arrived for their father from a
+
+417
+00:29:48,960 --> 00:29:53,440
+different quarter from Mr. Collins, which, as Jane had
+
+418
+00:29:53,440 --> 00:29:56,240
+received directions to open all that came for him in his
+
+419
+00:29:56,240 --> 00:30:00,240
+absence, she accordingly read,
+
+420
+00:29:58,850 --> 00:30:06,570
+Elizabeth, who knew what curiosities his letters always were, looked over her and read it likewise.
+
+421
+00:30:06,570 --> 00:30:08,130
+It was as follows.
+
+422
+00:30:08,130 --> 00:30:16,610
+My dear sir, I feel myself called upon by our relationship and my situation in life to condole
+
+423
+00:30:16,610 --> 00:30:22,170
+with you on the grievous affliction you are now suffering under, of which we were yesterday
+
+424
+00:30:22,170 --> 00:30:25,850
+informed by a letter from Hartfordshire.
+
+425
+00:30:25,850 --> 00:30:32,570
+Be assured, my dear sir, that Mrs. Collins and myself sincerely sympathise with you and
+
+426
+00:30:32,570 --> 00:30:39,530
+all your respectable family in your present distress, which must be of the bitterest kind,
+
+427
+00:30:39,530 --> 00:30:44,610
+because proceeding from a cause which no time can remove.
+
+428
+00:30:44,610 --> 00:30:51,250
+No arguments shall be wanting on my part that can alleviate so severe a misfortune, or
+
+429
+00:30:51,370 --> 00:30:56,930
+that may comfort you under a circumstance that must be of all others the most afflicting
+
+430
+00:30:56,930 --> 00:30:59,410
+to a parent's mind.
+
+431
+00:30:59,410 --> 00:31:04,450
+The death of your daughter would have been a blessing in comparison to this, and it is
+
+432
+00:31:04,450 --> 00:31:10,210
+the more to be lamented, because there is reason to suppose, as my dear Charlotte informs
+
+433
+00:31:10,210 --> 00:31:16,210
+me, that this licentiousness of behaviour in your daughter has proceeded from a faulty
+
+434
+00:31:16,210 --> 00:31:18,530
+degree of indulgence.
+
+435
+00:31:18,530 --> 00:31:24,650
+Though, at the same time, for the consolation of yourself and Mrs. Bennet, I am inclined to
+
+436
+00:31:24,650 --> 00:31:30,810
+think that her own disposition must be naturally bad, or she could not be guilty of such an
+
+437
+00:31:30,810 --> 00:31:34,450
+enormity at so early an age.
+
+438
+00:31:34,450 --> 00:31:39,610
+Howsoever that may be, you are grievously to be pitied, in which opinion I am not
+
+439
+00:31:39,610 --> 00:31:45,130
+only joined by Mrs. Collins, but likewise by Lady Catherine and her daughter, to whom
+
+440
+00:31:45,170 --> 00:31:47,650
+I have related the affair.
+
+441
+00:31:47,650 --> 00:31:52,290
+They agree with me in apprehending that this false step in one daughter will be
+
+442
+00:31:52,290 --> 00:31:57,250
+injurious to the fortunes of all the others, for who, as Lady Catherine
+
+443
+00:31:57,250 --> 00:32:02,970
+herself condescendingly says, will connect themselves with such a family.
+
+444
+00:32:02,970 --> 00:32:07,730
+And this consideration leads me moreover to reflect, with augmented
+
+445
+00:32:07,730 --> 00:32:12,690
+satisfaction, on a certain event of last November, for had it been
+
+446
+00:32:12,730 --> 00:32:18,050
+otherwise I must have been involved in all your sorrow and disgrace.
+
+447
+00:32:18,050 --> 00:32:22,850
+Let me then advise you, dear sir, to console yourself as much as possible, to
+
+448
+00:32:22,850 --> 00:32:27,290
+throw off your unworthy child from your affection for ever, and leave her to
+
+449
+00:32:27,290 --> 00:32:31,690
+reap the fruits of her own heinous offence.
+
+450
+00:32:31,690 --> 00:32:36,910
+I am, dear sir, et cetera, et cetera.
+
+451
+00:32:36,910 --> 00:32:40,150
+Mr. Gardiner did not write again till he had received an answer from
+
+452
+00:32:40,150 --> 00:32:45,190
+Colonel Forster, and then he had nothing of a pleasant nature to send.
+
+453
+00:32:45,190 --> 00:32:48,110
+It was not known that Wickham had a single relationship with whom he
+
+454
+00:32:48,110 --> 00:32:54,190
+kept up any connection, and it was certain that he had no near one living.
+
+455
+00:32:54,190 --> 00:32:57,750
+His former acquaintances had been numerous, but since he had been in the
+
+456
+00:32:57,750 --> 00:33:02,110
+militia it did not appear that he was on terms of particular friendship
+
+457
+00:33:02,110 --> 00:33:04,190
+with any of them.
+
+458
+00:33:04,190 --> 00:33:07,590
+There was no one, therefore, who could be pointed out as likely to give
+
+459
+00:33:07,590 --> 00:33:12,710
+any news of him, and in the wretched state of his own finances there was a
+
+460
+00:33:12,710 --> 00:33:17,190
+very powerful motive for secrecy, in addition to his fear of discovery
+
+461
+00:33:17,190 --> 00:33:22,150
+by Lydia's relations, for it had just transpired that he had left gaming
+
+462
+00:33:22,150 --> 00:33:26,430
+debts behind him to a very considerable amount.
+
+463
+00:33:26,430 --> 00:33:29,310
+Colonel Forster believed that more than a thousand pounds would be
+
+464
+00:33:29,310 --> 00:33:33,110
+necessary to clear his expenses at Brighton.
+
+465
+00:33:33,110 --> 00:33:37,230
+He owed a good deal in town, but his debts of honor were still more
+
+466
+00:33:37,230 --> 00:33:39,110
+formidable.
+
+467
+00:33:39,110 --> 00:33:42,430
+Mr. Gardiner did not attempt to conceal these particulars from the
+
+468
+00:33:42,430 --> 00:33:44,730
+long-born family.
+
+469
+00:33:44,730 --> 00:33:46,230
+Jane heard them with horror.
+
+470
+00:33:46,230 --> 00:33:48,990
+A game-ster, she cried.
+
+471
+00:33:48,990 --> 00:33:50,990
+This is wholly unexpected.
+
+472
+00:33:50,990 --> 00:33:53,870
+I had not an idea of it.
+
+473
+00:33:53,870 --> 00:33:57,190
+Mr. Gardiner added in his letter that they might expect to see their
+
+474
+00:33:57,190 --> 00:34:01,510
+father at home on the following day, which was Saturday.
+
+475
+00:34:01,510 --> 00:34:05,350
+Rendered spiritless by the ill success of all their endeavors, he
+
+476
+00:34:05,350 --> 00:34:08,950
+had yielded to his brother-in-law's entreaty that he would return to his
+
+477
+00:34:08,950 --> 00:34:12,830
+family, and leave it to him to do whatever occasion might suggest to
+
+478
+00:34:12,830 --> 00:34:16,470
+be advisable for continuing their pursuit.
+
+479
+00:34:16,470 --> 00:34:19,270
+When Mrs. Bennett was told of this, she did not express so much
+
+480
+00:34:19,270 --> 00:34:23,470
+satisfaction as her children expected, considering what her anxiety
+
+481
+00:34:23,470 --> 00:34:25,630
+for his life had been before.
+
+482
+00:34:25,630 --> 00:34:29,230
+What, is he coming home and without poor Lydia?
+
+483
+00:34:29,230 --> 00:34:30,230
+She cried.
+
+484
+00:34:30,230 --> 00:34:33,670
+Sure he will not leave London before he has found them.
+
+485
+00:34:33,670 --> 00:34:38,070
+Who is to fight Wickham and make him marry her if he comes away?
+
+486
+00:34:38,070 --> 00:34:41,870
+As Mrs. Gardiner began to wish to be at home, it was settled that
+
+487
+00:34:41,870 --> 00:34:45,310
+she and the children should go to London at the same time that
+
+488
+00:34:45,310 --> 00:34:47,630
+Mr. Bennett came from it.
+
+489
+00:34:47,630 --> 00:34:50,510
+The coach, therefore, took them the first stage of their journey
+
+490
+00:34:50,510 --> 00:34:53,910
+and brought its master back to Longbourn.
+
+491
+00:34:53,910 --> 00:34:57,630
+Mrs. Gardiner went away, and all the perplexity about Elizabeth
+
+492
+00:34:57,630 --> 00:34:59,070
+and her Darbyshire friend.
+
+493
+00:34:59,230 --> 00:35:04,170
+that had attended her from that part of the world. His name had never been voluntarily
+
+494
+00:35:04,170 --> 00:35:09,770
+mentioned before them by her niece, and the kind of half-expectation which Mrs. Gardner
+
+495
+00:35:09,770 --> 00:35:16,210
+had formed of there being followed by a letter from him had ended in nothing. Elizabeth had
+
+496
+00:35:16,210 --> 00:35:21,010
+received none since her return that could come from Pemberley.
+
+497
+00:35:21,010 --> 00:35:25,730
+The present unhappy state of the family rendered any other excuse for the lowness of her
+
+498
+00:35:25,730 --> 00:35:31,490
+spirits unnecessary. Nothing, therefore, could be fairly conjectured from that.
+
+499
+00:35:31,490 --> 00:35:35,570
+Though Elizabeth, who was by this time tolerably well acquainted with her own
+
+500
+00:35:35,570 --> 00:35:41,090
+feelings, was perfectly aware that, had she known nothing of Darcy, she could
+
+501
+00:35:41,090 --> 00:35:45,930
+have borne the dread of Lydia's infamy somewhat better. It would have spared
+
+502
+00:35:45,930 --> 00:35:50,610
+her, she thought, one sleepless night out of two.
+
+503
+00:35:50,610 --> 00:35:53,710
+When Mr. Bennet arrived he had all the appearance of his usual
+
+504
+00:35:53,710 --> 00:35:58,330
+philosophic composure. He said as little as he had ever been in the habit of
+
+505
+00:35:58,330 --> 00:36:02,950
+saying, made no mention of the business that had taken him away, and it was
+
+506
+00:36:02,950 --> 00:36:07,550
+some time before his daughters had courage to speak of it. It was not
+
+507
+00:36:07,550 --> 00:36:11,710
+till the afternoon, when he had joined them at tea, that Elizabeth ventured
+
+508
+00:36:11,710 --> 00:36:16,590
+to introduce the subject, and then, on her briefly expressing her sorrow for
+
+509
+00:36:16,590 --> 00:36:21,590
+what he must have endured, he replied, Say nothing of that, who should
+
+510
+00:36:21,590 --> 00:36:27,230
+suffer but myself. It has been my own doing, and I ought to feel it.
+
+511
+00:36:27,230 --> 00:36:32,230
+You must not be too severe upon yourself, replied Elizabeth. You may well
+
+512
+00:36:32,230 --> 00:36:37,510
+warn me against such an evil. Human nature is so prone to fall into it.
+
+513
+00:36:37,510 --> 00:36:41,430
+No, Lizzie, let me once in my life feel how much I have been to
+
+514
+00:36:41,430 --> 00:36:45,830
+blame. I am not afraid of being overpowered by the impression. It
+
+515
+00:36:45,830 --> 00:36:47,550
+will pass away soon enough.
+
+516
+00:36:47,550 --> 00:36:52,710
+Do you suppose them to be in London? Yes, where else can they be so
+
+517
+00:36:52,710 --> 00:36:58,790
+well concealed? And Lydia used to want to go to London, added Kitty.
+
+518
+00:36:58,790 --> 00:37:02,710
+She is happy, then, said her father, dryly, and her residence there
+
+519
+00:37:02,710 --> 00:37:08,090
+will probably be of some duration. Then, after short silence, he
+
+520
+00:37:08,090 --> 00:37:12,270
+continued, Lizzie, I bear you no ill will for being justified in
+
+521
+00:37:12,270 --> 00:37:16,270
+your advice to me last May, which considering the event shows
+
+522
+00:37:16,470 --> 00:37:20,870
+some greatness of mind. They were interrupted by Miss Bennet, who
+
+523
+00:37:20,870 --> 00:37:25,670
+came to fetch her mother's tea. This is a parade, he cried, which
+
+524
+00:37:25,670 --> 00:37:30,270
+does one good. It gives such an elegance to misfortune. Another
+
+525
+00:37:30,270 --> 00:37:34,070
+day I will do the same. I will sit to my library in my nightcap
+
+526
+00:37:34,070 --> 00:37:37,350
+and powdering down and give as much trouble as I can. Or
+
+527
+00:37:37,350 --> 00:37:40,670
+perhaps I may defer it till Kitty runs away.
+
+528
+00:37:40,670 --> 00:37:45,110
+I am not going to run away, Papa, said Kitty fretfully, if
+
+529
+00:37:45,150 --> 00:37:49,470
+I should ever go to Brighton I would behave better than Lydia.
+
+530
+00:37:49,470 --> 00:37:52,590
+You go to Brighton. I would not trust you so near it is
+
+531
+00:37:52,590 --> 00:37:56,750
+east-born for fifty pounds. No, Kitty, I have at least learnt
+
+532
+00:37:56,750 --> 00:38:01,070
+to be cautious, and you will feel the effects of it. No officer
+
+533
+00:38:01,070 --> 00:38:03,990
+is ever to enter into my house again, nor even to pass
+
+534
+00:38:03,990 --> 00:38:07,950
+through the village. Balls will be absolutely prohibited unless
+
+535
+00:38:07,950 --> 00:38:11,070
+you stand up with one of your sisters, and you are never to
+
+536
+00:38:11,070 --> 00:38:14,190
+stir out of doors till you can prove that you have spent ten
+
+537
+00:38:14,230 --> 00:38:18,790
+minutes of every day in a rational manner. Kitty, who took all
+
+538
+00:38:18,790 --> 00:38:22,590
+these threats in a serious light, began to cry.
+
+539
+00:38:22,590 --> 00:38:27,990
+Well, well, said he, do not make yourself unhappy. If you are a
+
+540
+00:38:27,990 --> 00:38:31,670
+good girl for the next ten years I will take you to a review at
+
+541
+00:38:31,670 --> 00:38:36,650
+the end of them.

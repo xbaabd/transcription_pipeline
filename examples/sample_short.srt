@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:05,160
+Hello, this is a short test recording for the transcription pipeline.
+
+2
+00:00:05,160 --> 00:00:09,960
+It contains two sentences spoken clearly, followed by a final closing remark.

@@ -1,0 +1,27 @@
+{
+  "language": "en",
+  "duration": 10.6875625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.16,
+      "text": "Hello, this is a short test recording for the transcription pipeline."
+    },
+    {
+      "id": 2,
+      "start": 5.16,
+      "end": 9.96,
+      "text": "It contains two sentences spoken clearly, followed by a final closing remark."
+    }
+  ],
+  "source": {
+    "file": "sample_short.wav",
+    "container": "wav",
+    "codec": "pcm_s16le",
+    "sample_rate": 22050,
+    "channels": 1,
+    "duration": 10.687528
+  },
+  "text": "Hello, this is a short test recording for the transcription pipeline. It contains two sentences spoken clearly, followed by a final closing remark."
+}
