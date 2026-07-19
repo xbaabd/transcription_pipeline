@@ -6,8 +6,14 @@ import json
 from pathlib import Path
 
 
+def _prepare(path: str | Path) -> Path:
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    return path
+
+
 def write_json(result: dict, path: str | Path) -> None:
-    Path(path).write_text(
+    _prepare(path).write_text(
         json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8"
     )
 
@@ -24,11 +30,11 @@ def write_srt(result: dict, path: str | Path) -> None:
     lines: list[str] = []
     for i, seg in enumerate(result["segments"], start=1):
         lines += [str(i), f"{_ts(seg['start'], ',')} --> {_ts(seg['end'], ',')}", seg["text"], ""]
-    Path(path).write_text("\n".join(lines), encoding="utf-8")
+    _prepare(path).write_text("\n".join(lines), encoding="utf-8")
 
 
 def write_vtt(result: dict, path: str | Path) -> None:
     lines = ["WEBVTT", ""]
     for seg in result["segments"]:
         lines += [f"{_ts(seg['start'], '.')} --> {_ts(seg['end'], '.')}", seg["text"], ""]
-    Path(path).write_text("\n".join(lines), encoding="utf-8")
+    _prepare(path).write_text("\n".join(lines), encoding="utf-8")

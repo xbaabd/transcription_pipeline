@@ -36,7 +36,7 @@ def _get_transcriber() -> Transcriber:
     # lazy singleton: model load takes seconds, so do it once and reuse
     global _transcriber
     if _transcriber is None:
-        _transcriber = Transcriber(num_workers=3)
+        _transcriber = Transcriber(num_workers=2)
     return _transcriber
 
 

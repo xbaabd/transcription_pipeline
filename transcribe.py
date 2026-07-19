@@ -35,8 +35,9 @@ def main() -> int:
     parser.add_argument("--device", default="cpu", choices=["cpu", "cuda", "auto"])
     parser.add_argument("--language", default=None,
                         help="force language code e.g. 'en' (default: auto-detect)")
-    parser.add_argument("--workers", type=int, default=3,
-                        help="parallel workers for chunked long files (default: 3)")
+    parser.add_argument("--workers", type=int, default=2,
+                        help="parallel workers for chunked long files (default: 2; "
+                             "each worker uses ~3 CPU threads)")
     parser.add_argument("--no-chunk", action="store_true",
                         help="force single-pass transcription regardless of duration")
     args = parser.parse_args()

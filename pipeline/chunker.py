@@ -85,7 +85,7 @@ def slice_chunk(wav_path: str | Path, start: float, end: float, out_dir: Path) -
 
 
 def transcribe_chunked(transcriber, wav_path: str | Path, duration: float,
-                       language: str | None = None, max_workers: int = 3,
+                       language: str | None = None, max_workers: int = 2,
                        target_s: float = CHUNK_TARGET_S,
                        max_s: float = CHUNK_MAX_S) -> dict:
     """Chunk a long normalized WAV, transcribe in parallel, stitch results."""
